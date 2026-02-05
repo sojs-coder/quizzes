@@ -1,0 +1,1032 @@
+[
+  {
+    "q": "Many people believe in astrology because horoscopes and personality descriptions often contain vague but positive statements. Failure to think critically about those statements demonstrates which kind of bias?",
+    "options": [
+      "hindsight bias",
+      "the gambler’s fallacy",
+      "the Barnum effect",
+      "perceiving order in random events"
+    ],
+    "answer": 2,
+    "reason": "The Barnum effect refers to the tendency to accept vague, general personality descriptions as uniquely applicable to oneself."
+  },
+  {
+    "q": "Imagine you meet a researcher who tells you that the study of psychology should not be concerned with what’s happening inside the mind because all thoughts are subjective; instead we should only study observable behaviors and how they are affected by different stimuli and environments. What school of thought does this researcher probably believe in most?",
+    "options": [
+      "behaviorism",
+      "structuralism",
+      "functionalism",
+      "Freudian (psychoanalytic)"
+    ],
+    "answer": 0,
+    "reason": "Behaviorism emphasizes the study of observable behavior over internal mental states."
+  },
+  {
+    "q": "Which of the following areas of psychology is typically considered a field of “basic” research?",
+    "options": [
+      "Industrial/organizational",
+      "Educational",
+      "Cognitive",
+      "Forensic"
+    ],
+    "answer": 2,
+    "reason": "Cognitive psychology is a subfield of basic research focused on mental processes, whereas the others are applied fields."
+  },
+  {
+    "q": "On the first day of class, Professor Hurwitz presented several findings from cognitive psychology that students can use to improve their study habits and make learning last longer. What is the basic finding of the spacing effect?",
+    "options": [
+      "Students learn more when they test themselves than when they reread material",
+      "Students learn more when they spread out their study sessions than when they cram",
+      "Students learn more when they make errors and get feedback than when they only see the right answers",
+      "Students learn more when they study in many places than when they always study in the same place"
+    ],
+    "answer": 1,
+    "reason": "The spacing effect describes the finding that long-term memory is enhanced when learning events are spaced apart in time."
+  },
+  {
+    "q": "A statement describing the exact procedures for measuring an anticipated experimental outcome is known as a(n)",
+    "options": [
+      "Hypothesis",
+      "Control condition",
+      "Replication",
+      "Operational definition"
+    ],
+    "answer": 3,
+    "reason": "An operational definition specifies the exact procedures used to measure a variable."
+  },
+  {
+    "q": "Which research method runs the greatest risk of collecting evidence that may be unrepresentative of what is generally true?",
+    "options": [
+      "Naturalistic observation",
+      "Case studies",
+      "Experimentation",
+      "Surveys"
+    ],
+    "answer": 1,
+    "reason": "Case studies focus on a single individual or group in depth, which may not generalize to the wider population."
+  },
+  {
+    "q": "Dr. Smith just reviewed a correlational study that found a statistically significant relationship between playing violent video games and childhood aggression. Which of the following would be an appropriate conclusion to draw from the results of this study?",
+    "options": [
+      "Playing violent video games causes children to be aggressive",
+      "Having an aggressive disposition causes children to seek out violent video games",
+      "Some third variable both causes children to playing violent video games and causes them to be aggressive",
+      "Children who play more violent video games tend to be more aggressive than other children"
+    ],
+    "answer": 3,
+    "reason": "Correlational studies describe relationships (tendencies) but cannot prove causation."
+  },
+  {
+    "q": "If psychologists discovered that wealthy people are less satisfied with their marriages than poor people are, this would indicate that wealth and marital satisfaction are",
+    "options": [
+      "Casually related",
+      "Negatively correlated",
+      "Independent variables",
+      "Positively correlated"
+    ],
+    "answer": 1,
+    "reason": "A negative correlation means that as one variable increases (wealth), the other decreases (satisfaction)."
+  },
+  {
+    "q": "Assessing how well one variable predicts another variable is the goal of ___, while detecting cause-and-effect relationships between different variables is the purpose of ___.",
+    "options": [
+      "Naturalistic observations; case studies",
+      "descriptive methods; correlational methods",
+      "a control group; an experimental group",
+      "correlational research; experimental research"
+    ],
+    "answer": 3,
+    "reason": "Correlation allows for prediction, while experimentation allows for causal inference."
+  },
+  {
+    "q": "To assess the influence of self-esteem on interpersonal attraction, researchers either insulted or complimented students about their physical appearance just before they went on a blind date. In this research, the dependent variable was",
+    "options": [
+      "Insults or compliements",
+      "physical appearance",
+      "interpersonal attraction",
+      "feelings of self-esteem."
+    ],
+    "answer": 2,
+    "reason": "The dependent variable is the outcome measured; in this case, the interpersonal attraction results."
+  },
+  {
+    "q": "When neurons communicate, they use a signal that has two parts: a(n) ___ component that travels within a neuron, and a(n) ___ component that travels between neurons.",
+    "options": [
+      "electrical; chemical",
+      "chemical; electrical",
+      "agonist; antagonist",
+      "antagonist; agonist"
+    ],
+    "answer": 0,
+    "reason": "Neurons transmit electrical signals (action potentials) internally and chemical signals (neurotransmitters) across the synapse."
+  },
+  {
+    "q": "An excitatory neurotransmitter is one that",
+    "options": [
+      "Is released when a neuron fires an action potential",
+      "Is released when a neuron doesn’t fire an action potential",
+      "Makes the receiving neuron more likely to fire an action potential",
+      "Makes the receiving neuron less likely to fire an action potential"
+    ],
+    "answer": 2,
+    "reason": "Excitatory neurotransmitters depolarize the receiving neuron, increasing the likelihood of an action potential."
+  },
+  {
+    "q": "The peripheral nervous system consists of:",
+    "options": [
+      "association areas",
+      "the spinal cord",
+      "the endocrine glands",
+      "sensory and motor neurons"
+    ],
+    "answer": 3,
+    "reason": "The peripheral nervous system is made up of sensory and motor neurons connecting the CNS to the rest of the body."
+  },
+  {
+    "q": "A reflex is a neural circuit that connects sensory input with motor output (like pulling your hand away from a hot flame), but does not require the involvement of the:",
+    "options": [
+      "central nervous system",
+      "brain",
+      "peripheral nervous system",
+      "spinal cord"
+    ],
+    "answer": 1,
+    "reason": "Spinal reflexes are processed in the spinal cord and do not require immediate input from the brain."
+  },
+  {
+    "q": "The endocrine system controls the regulation of hormones that travel through your bloodstream. Which structure is considered the “master gland” of this system?",
+    "options": [
+      "the adrenal glands",
+      "the thyroid gland",
+      "the pituitary gland",
+      "the hypothalamus"
+    ],
+    "answer": 2,
+    "reason": "The pituitary gland is the master gland because it regulates other endocrine glands."
+  },
+  {
+    "q": "Imagine you are studying how people represent faces of friends and family in the brain. Which imaging technique should you use if your goal is to get a clear picture of which regions of the brain are more active when looking at friends than at strangers?",
+    "options": ["fMRI", "EEG", "single cell recording", "MRI"],
+    "answer": 0,
+    "reason": "fMRI is used to measure brain activity by detecting changes in blood flow."
+  },
+  {
+    "q": "Sarah has suffered some brain damage that has resulted in her movement becoming jerky and less coordinated, and she has some trouble keeping her balance while walking. What area of her brain was most likely to have been damaged?",
+    "options": ["brainstem", "thalamus", "reticular formation", "cerebellum"],
+    "answer": 3,
+    "reason": "The cerebellum is responsible for coordination, balance, and fine motor skills."
+  },
+  {
+    "q": "As a result of a stroke, David has lost the ability to form new memories. Which area of his brain was most likely to have been damaged?",
+    "options": ["hippocampus", "hypothalamus", "thalamus", "amygdala"],
+    "answer": 0,
+    "reason": "The hippocampus is critical for the formation of new explicit memories."
+  },
+  {
+    "q": "The ___ lobe is primarily responsible for planning, decision making, and producing motor output, while the ___ lobe is primarily responsible for processing visual information.",
+    "options": [
+      "parietal; frontal",
+      "frontal; occipital",
+      "temporal; parietal",
+      "occipital; temporal"
+    ],
+    "answer": 1,
+    "reason": "The frontal lobe handles executive functions and motor control; the occipital lobe handles vision."
+  },
+  {
+    "q": "When describing locations in the brain, we could say that the parietal lobe is ___ to the temporal lobe, and ___ to the frontal lobe.",
+    "options": [
+      "anterior; superior",
+      "posterior; inferior",
+      "inferior; anterior",
+      "superior; posterior"
+    ],
+    "answer": 3,
+    "reason": "Anatomically, the parietal lobe is above (superior) the temporal lobe and behind (posterior) the frontal lobe."
+  },
+  {
+    "q": "As candy enters our mouth and hits our taste buds, this stimulus is converted to a special nerve impulse that allows our brains to interpret as a sour-tasting treat! The conversion from a chemical signal to a neural impulse is called:",
+    "options": [
+      "transduction",
+      "sensation",
+      "perception",
+      "sensory adaptation"
+    ],
+    "answer": 0,
+    "reason": "Transduction is the process of converting sensory stimuli (like chemicals) into neural signals."
+  },
+  {
+    "q": "Ximena can tune her guitar more effectively than Maria because Ximena is better at detecting whether specific strings are playing too sharp or too flat. With respect to tone sensitivity, Ximena has a ___ threshold than Maria.",
+    "options": [
+      "smaller difference",
+      "larger difference",
+      "higher absolute",
+      "lower absolute"
+    ],
+    "answer": 0,
+    "reason": "A smaller difference threshold (Just Noticeable Difference) means one can detect smaller changes in stimuli."
+  },
+  {
+    "q": "When Imani visits her friend Aaliyah, she notices that Aaliyah’s home has a characteristic scent to it. However, Imani cannot identify a smell that is characteristic of her own home. What might help to explain this?",
+    "options": [
+      "sensory confusion",
+      "perceptual adaptation",
+      "sensory adaptation",
+      "olfactory threshold"
+    ],
+    "answer": 2,
+    "reason": "Sensory adaptation is the diminished sensitivity to a constant stimulus (like the smell of one's own home)."
+  },
+  {
+    "q": "Whale watchers must carefully look for certain movements, colors, and shapes all at once to properly identify an animal out at sea. Although any given whale will have a particular shape, color, and pattern of movement, each of these features is processed in a separate area of the brain. This is an example of:",
+    "options": [
+      "trichromatic processing",
+      "perception",
+      "opponent processing",
+      "parallel processing"
+    ],
+    "answer": 3,
+    "reason": "Parallel processing is the brain's ability to process multiple aspects of a situation (color, motion, form) simultaneously."
+  },
+  {
+    "q": "Which of the following is NOT a monocular depth cue?",
+    "options": [
+      "retinal disparity",
+      "relative size",
+      "interposition",
+      "texture"
+    ],
+    "answer": 0,
+    "reason": "Retinal disparity is a binocular depth cue requiring two eyes."
+  },
+  {
+    "q": "___ processing relies primarily on incoming sensory information, while ___ processing is based on our expectations about the world from prior knowledge and experience.",
+    "options": [
+      "sensation; bottom-up",
+      "top-down; bottom-up",
+      "bottom-up; top-down",
+      "top-down; perception"
+    ],
+    "answer": 2,
+    "reason": "Bottom-up processing starts with sensory input; top-down processing draws on experience and expectations."
+  },
+  {
+    "q": "We perceive objects as having a consistent shape, size, and color, even though the exact image that is projected onto our retinas may dramatically change in shape, size, and color as we move about the world. This phenomenon is called:",
+    "options": [
+      "a visual illusion",
+      "Gestalt perception",
+      "sensory adaptation",
+      "perceptual constancy"
+    ],
+    "answer": 3,
+    "reason": "Perceptual constancy allows us to recognize objects as unchanging despite changes in retinal images."
+  },
+  {
+    "q": "To train their dog, Angel paired a clicker device with food so that their dog would come to expect a food reward whenever they heard the click. Angel then used the clicker to train their dog to dance by shaping its behavior over time. Learning to associate the clicker with food was an example of ____ conditioning, and using the clicker as a reward to shape behavior was an example of ___ conditioning.",
+    "options": [
+      "classical; modeling",
+      "operant; classical",
+      "modeling; operant",
+      "classical; operant"
+    ],
+    "answer": 3,
+    "reason": "Associating stimuli (clicker and food) is classical conditioning; shaping behavior via rewards is operant conditioning."
+  },
+  {
+    "q": "Stephanie’s cat has been classically conditioned so that when she hears a can being opened she runs to the kitchen, expecting to be fed. Before the cat had learned the association between cans and food, the sound of a can being opened was a(n)…",
+    "options": [
+      "unconditioned response",
+      "conditioned stimulus",
+      "neutral stimulus",
+      "unconditioned stimulus"
+    ],
+    "answer": 2,
+    "reason": "Before association, a stimulus that elicits no response (the can sound) is a neutral stimulus."
+  },
+  {
+    "q": "Extinction of a conditioned response occurs when:",
+    "options": [
+      "The conditioned and unconditioned stimulus appear together",
+      "The neutral and conditioned stimulus no longer appear together",
+      "The neutral and conditioned stimulus appear together",
+      "The conditioned and unconditioned stimulus no longer appear together"
+    ],
+    "answer": 3,
+    "reason": "Extinction happens when the CS is presented repeatedly without the US, weakening the association."
+  },
+  {
+    "q": "A local restaurant has a deal that after buying 10 sandwiches, you get one free. What type of reinforcement schedule are they using to encourage people to eat at their restaurant?",
+    "options": [
+      "fixed ratio",
+      "variable ratio",
+      "variable interval",
+      "fixed interval"
+    ],
+    "answer": 0,
+    "reason": "A fixed ratio schedule reinforces a behavior after a specific number of responses (e.g., buying 10 items)."
+  },
+  {
+    "q": "If a child gets his mouth washed out with soap for swearing in an effort to make him stop using bad language, what kind of consequence is being used to condition his behavior?",
+    "options": [
+      "negative punishment",
+      "positive punishment",
+      "positive reinforcement",
+      "negative reinforcement"
+    ],
+    "answer": 1,
+    "reason": "Positive punishment involves adding an aversive stimulus (soap) to decrease a behavior (swearing)."
+  },
+  {
+    "q": "The tendency to respond to other stimuli that are similar but not identical to the conditioned stimulus is called ___, while the ability to distinguish between the conditioned stimulus and other neutral stimuli is called ___.",
+    "options": [
+      "acquisition; spontaneous recovery",
+      "spontaneous recovery; generalization",
+      "discrimination; extinction",
+      "generalization; discrimination"
+    ],
+    "answer": 3,
+    "reason": "Generalization is responding to similar stimuli; discrimination is the ability to distinguish between them."
+  },
+  {
+    "q": "Amir had an accident that damaged his basal ganglia and cerebellum. Which activity would be most difficult for him?",
+    "options": [
+      "retelling a story about her 5th birthday",
+      "taking a test on material learned in class",
+      "remembering her phone number",
+      "riding a bike"
+    ],
+    "answer": 3,
+    "reason": "The basal ganglia and cerebellum are key for implicit, procedural memories like motor skills (riding a bike)."
+  },
+  {
+    "q": "Atkinson and Shiffrin proposed a three-stage model of memory. Which stage of this model is used for storing memories that you are not currently thinking about?",
+    "options": [
+      "short-term memory",
+      "long-term memory",
+      "sensory memory",
+      "working memory"
+    ],
+    "answer": 1,
+    "reason": "Long-term memory is the relatively permanent storage of information not currently in conscious awareness."
+  },
+  {
+    "q": "Which of the following types of information would NOT be processed automatically?",
+    "options": [
+      "The location where you saw information printed on a page",
+      "The definitions of key terms in the reading",
+      "How often you’ve been to the dining halls this week",
+      "The sequence of events that happened throughout the day"
+    ],
+    "answer": 1,
+    "reason": "Semantic information like definitions typically requires effortful processing, unlike space, time, and frequency."
+  },
+  {
+    "q": "A few years ago, Fatima had to learn a new computer system at work. Now she can’t remember how the old system worked because all she can think of is the new one. This inability to remember the old system is an example of:",
+    "options": [
+      "retrograde amnesia",
+      "retroactive interference",
+      "anterograde amnesia",
+      "proactive interference"
+    ],
+    "answer": 1,
+    "reason": "Retroactive interference occurs when new learning disrupts the recall of old information."
+  },
+  {
+    "q": "Flashbulb memories are:",
+    "options": [
+      "Fuzzy, but what is recalled is highly accurate",
+      "Very vivid, but often inaccurate",
+      "Very vivid, and as a result, highly accurate",
+      "Fuzzy and inaccurate"
+    ],
+    "answer": 1,
+    "reason": "Flashbulb memories are vivid and confident but are susceptible to errors and inaccuracy over time."
+  },
+  {
+    "q": "Barry is a famous baseball player. His knowledge of the game, for example, there are three strikes before you are out, is an example of __________ memory, whereas is ability to throw fast balls and curves balls is an example of __________ memory.",
+    "options": [
+      "procedural; semantic",
+      "semantic; declarative",
+      "implicit; explicit",
+      "semantic; procedural"
+    ],
+    "answer": 3,
+    "reason": "Facts (rules of the game) are semantic memory; motor skills (throwing) are procedural memory."
+  },
+  {
+    "q": "Suppose you watch a movie one night while you are drunk. The next day, when you are sober, you cannot remember the ending. However, the next time you are drunk, you are able to recall the ending of the movie. This illustrates the effect of:",
+    "options": [
+      "state-dependent memory",
+      "levels of processing",
+      "serial position",
+      "priming"
+    ],
+    "answer": 0,
+    "reason": "State-dependent memory is the phenomenon where memory retrieval is most efficient when in the same state of consciousness as when the memory was formed."
+  },
+  {
+    "q": "What are the smallest units of meaning within a language?",
+    "options": ["phonemes", "morphemes", "sentences", "words"],
+    "answer": 1,
+    "reason": "Morphemes are the smallest units of language that carry meaning (e.g., prefixes, suffixes, roots)."
+  },
+  {
+    "q": "Stephen and Stephanie both have problems with speech. Stephen’s disorder is characterized with speech such as, “Um . . . the . . . ahhh . . . I want . . . green . . . it’s green. . . .” Stephanie’s disorder is characterized with speech such as, “It is easy because . . . boys are looking but they look . . . see the cat is with the boys and machines and purple.” Stephen is most likely suffering from ___ while Stephanie is suffering from ___.",
+    "options": [
+      "Specific language impairment; Broca's aphasia",
+      "Broca's aphasia; Wernicke's aphasia",
+      "Wernicke's aphasia; Broca's aphasia",
+      "Wernicke's aphasia; specific language impairment"
+    ],
+    "answer": 1,
+    "reason": "Broca's aphasia involves difficulty producing speech (broken); Wernicke's aphasia involves fluent but meaningless speech (word salad)."
+  },
+  {
+    "q": "The method of categorization that involves creating a “mental average” of all the members of that category and using that average to represent a concept is the ___.",
+    "options": [
+      "Exemplar theory",
+      "Classical theory",
+      "\"Theory\" theory",
+      "Prototype theory"
+    ],
+    "answer": 3,
+    "reason": "Prototype theory suggests we categorize items by comparing them to a prototype, or 'mental average'."
+  },
+  {
+    "q": "Our ability to represent concepts and categories in our minds and our languages improves our cognitive economy which aims to reduce ___ and increase ____.",
+    "options": [
+      "The number of words required in a language; the number of sentences a language can produce",
+      "The number of sounds required in a language; the number of words a language can produce",
+      "The number of discriminations we make between things; the informativeness of the labels for things",
+      "The informativeness of the labels for things; the number of discriminations we make between things"
+    ],
+    "answer": 2,
+    "reason": "Cognitive economy balances simplifying the world (fewer discriminations) with maintaining useful information."
+  },
+  {
+    "q": "You decide that you want to become a psychologist. In order to accomplish this goal, you decide to tackle smaller problems first—for example, getting a bachelor’s degree. This decision brings up even smaller problems, such as applying to college. What type of problem solving strategy are you using?",
+    "options": [
+      "algorithm",
+      "trial and error",
+      "means-ends heuristic",
+      "insight"
+    ],
+    "answer": 2,
+    "reason": "Means-ends analysis involves breaking a large goal into smaller sub-goals to reduce the difference between the current state and the goal state."
+  },
+  {
+    "q": "When people have a belief and tend to not look for evidence against that belief, they are engaging in ____.",
+    "options": [
+      "loss aversion",
+      "overconfidence",
+      "belief perseverance",
+      "confirmation bias"
+    ],
+    "answer": 3,
+    "reason": "Confirmation bias is the tendency to search for information that supports our preconceptions and ignore contradictory evidence."
+  },
+  {
+    "q": "The ___ is the tendency to rely on information that quickly comes to mind when trying to make a decision.",
+    "options": [
+      "anchoring heuristic",
+      "availability heuristic",
+      "representativeness heuristic",
+      "affect heuristic"
+    ],
+    "answer": 1,
+    "reason": "The availability heuristic involves making judgments based on how easily examples come to mind."
+  },
+  {
+    "q": "Students are more optimistic about their chances of getting into a particular college if they are told that the school has a 30% acceptance rate than if they are told that it has a 70% rejection rate. This illustrates that the students are influenced by:",
+    "options": [
+      "the representativeness heuristic",
+      "availability",
+      "belief perseverance",
+      "framing"
+    ],
+    "answer": 3,
+    "reason": "Framing refers to how the presentation of an issue (e.g., 30% pass vs 70% fail) affects decisions and judgments."
+  },
+  {
+    "q": "Babies looked longer at a video in which a rotating surface seemed to pass through a hidden box than at a video in which the rotating surface seemed to stop against the hidden box. Their surprise at seeing an “impossible event” suggests that even young babies have developed a ___.",
+    "options": [
+      "secure attachment",
+      "theory of mind",
+      "concept of conservation",
+      "sense of object permanence"
+    ],
+    "answer": 3,
+    "reason": "Surprise at an impossible event involving hidden objects indicates an understanding that objects continue to exist when unseen (object permanence)."
+  },
+  {
+    "q": "There are three cookies. Aurora takes two for herself, breaks the other one into two pieces, and gives the pieces to her little sister, Jean. Jean thinks this is a fair deal because they each have two. According to Piaget, what stage of cognitive development is Jean in right now?",
+    "options": [
+      "concrete operational",
+      "pre-operational",
+      "formal operational",
+      "sensorimotor"
+    ],
+    "answer": 1,
+    "reason": "Jean lacks the concept of conservation (understanding quantity remains the same despite shape changes), which is characteristic of the pre-operational stage."
+  },
+  {
+    "q": "Imagine a child learns the schema for a dog. Later, she sees a cat and calls it a dog. This is an example of ___.",
+    "options": ["conservation", "maturation", "accommodation", "assimilation"],
+    "answer": 3,
+    "reason": "Assimilation is interpreting new experiences (seeing a cat) in terms of existing schemas (dog)."
+  },
+  {
+    "q": "Parents who are demanding of their children but also responsive to their children’s needs would be characterized as:",
+    "options": ["authoritative", "authoritarian", "neglectful", "indulgent"],
+    "answer": 0,
+    "reason": "Authoritative parents are both demanding (set rules) and responsive (warm and communicative)."
+  },
+  {
+    "q": "In a strange situation task, a child who is upset when the mother leaves, and who seeks contact with her but remains angry and upset when she returns would be assessed as a having a(n) ___ attachment.",
+    "options": ["disorganized", "avoidant", "secure", "ambivalent"],
+    "answer": 3,
+    "reason": "Ambivalent (or resistant) attachment is characterized by distress at separation and mixed feelings (seeking contact but angry) upon return."
+  },
+  {
+    "q": "According to Erikson’s theory of psychosocial development, the primary conflict that humans experience in young adulthood is between ___ and ___.",
+    "options": [
+      "seeking competency; feelings inferiority",
+      "achieving autonomy; feelings of shame & guilt",
+      "developing identity; feelings of role confusion",
+      "seeking intimacy; feelings of isolation or loneliness"
+    ],
+    "answer": 3,
+    "reason": "Erikson proposed that young adults struggle with Intimacy vs. Isolation."
+  },
+  {
+    "q": "From the very first weeks of life, infants differ in their characteristic emotional reactions, with some infants being intense and anxious, while others are easygoing and relaxed. These differences are usually explained as differences in ___.",
+    "options": ["temperament", "attachment", "environment", "parenting style"],
+    "answer": 0,
+    "reason": "Temperament refers to a person's characteristic emotional reactivity and intensity, often visible from birth."
+  },
+  {
+    "q": "What is heritability?",
+    "options": [
+      "The ability of genetic factors to explain differences between groups",
+      "The proportion of variability in a trait across a population that can be explained by genetic factors",
+      "All of the above",
+      "The proportion that genes contribute to a trait for a specific individual"
+    ],
+    "answer": 1,
+    "reason": "Heritability measures the extent to which variation among a group can be attributed to genes, not the genetic contribution to a single individual."
+  },
+  {
+    "q": "Adoption studies seek to understand genetic influences on personality by:",
+    "options": [
+      "Comparing adopted children with non-adopted children",
+      "Studying the effect of prior neglect on adopted children",
+      "Studying the effect of children’s age at adoption",
+      "Evaluating whether adopted children’s personalities more closely resemble those of their adoptive parents or their biological parents"
+    ],
+    "answer": 3,
+    "reason": "Adoption studies compare adoptees to biological vs. adoptive parents to disentangle nature (genes) from nurture (environment)."
+  },
+  {
+    "q": "____ twins raised apart can allow researchers to study the effects of ____ while keeping ____ constant.",
+    "options": [
+      "Fraternal – genes – environment",
+      "Fraternal – environment – genes",
+      "Identical – genes – environment",
+      "Identical – environment – genes"
+    ],
+    "answer": 3,
+    "reason": "Identical twins share 100% of their genes; raising them apart varies the environment while holding genes constant."
+  },
+  {
+    "q": "Evolutionary psychologists are most likely to focus on:",
+    "options": [
+      "how individuals differ from one another",
+      "the natural selection of traits that helped our ancestors survive and reproduce",
+      "social scripts",
+      "the social consequences of learned behaviors"
+    ],
+    "answer": 1,
+    "reason": "Evolutionary psychology uses principles of natural selection to explain universal human traits."
+  },
+  {
+    "q": "The study of how environment changes the expression of genes is called ___.",
+    "options": [
+      "molecular genetics",
+      "epigenetics",
+      "self-regulation",
+      "heritability"
+    ],
+    "answer": 1,
+    "reason": "Epigenetics studies molecular mechanisms by which environments can trigger or block genetic expression."
+  },
+  {
+    "q": "According to the James-Lange theory, we experience emotion __________ we notice our physiological arousal. According to the Cannon-Bard theory, we experience emotion ___________ we become physiologically aroused.",
+    "options": [
+      "after; before",
+      "before; after",
+      "after; at the same time as",
+      "at the same time as; after"
+    ],
+    "answer": 2,
+    "reason": "James-Lange posits arousal precedes emotion; Cannon-Bard posits they occur simultaneously."
+  },
+  {
+    "q": "The Schacter-Singer theory of emotion differs from other theories of emotion because it is the only one that says an individual must ___ in order to experience an emotion.",
+    "options": [
+      "experience physiological arousal",
+      "apply a cognitive label to the feeling of arousal",
+      "perceive an emotion-inducing stimulus",
+      "remember the source of the arousal"
+    ],
+    "answer": 1,
+    "reason": "Schacter-Singer (Two-Factor Theory) emphasizes that physical arousal must be cognitively labeled to experience a specific emotion."
+  },
+  {
+    "q": "Miguel's parents bought him a used bicycle for his birthday. He was excited until he learned that his best friend received a brand-new bicycle for his birthday. Miguel's declining satisfaction illustrates:",
+    "options": [
+      "the catharsis myth",
+      "the adaptation-level phenomenon",
+      "relative deprivation",
+      "the behavior feedback effect"
+    ],
+    "answer": 2,
+    "reason": "Relative deprivation is the perception that one is worse off relative to those with whom one compares oneself."
+  },
+  {
+    "q": "Jasmine believes that she will succeed in business if she works hard and carefully manages her time. Her belief most clearly illustrates:",
+    "options": [
+      "in-group bias",
+      "groupthink",
+      "an internal locus of control",
+      "the representativeness heuristic"
+    ],
+    "answer": 2,
+    "reason": "Internal locus of control is the belief that one controls one's own fate through their actions."
+  },
+  {
+    "q": "While taking a difficult test, Destiny's muscles tense and her heart pounds. These physiological responses are:",
+    "options": [
+      "stress reactions",
+      "stress appraisals",
+      "stressors",
+      "conflicts"
+    ],
+    "answer": 0,
+    "reason": "Physical responses like muscle tension and heart pounding are stress reactions to a stressor (the test)."
+  },
+  {
+    "q": "Lily and Lamar are both upset about getting a bad grade on an exam and both fear that they may fail the course. Lamar deals with the stress of the situation by venting to his friend, demonstrating ____, while Lily goes to the professor to ask if she can do some extra credit work, demonstrating ____.",
+    "options": [
+      "perceived control; predictability",
+      "internal locus of control; external locus of control",
+      "emotion-focused coping; problem-focused coping",
+      "catharsis; self-indulgence"
+    ],
+    "answer": 2,
+    "reason": "Emotion-focused coping alleviates stress by ignoring or venting; problem-focused coping attempts to alleviate stress by changing the stressor."
+  },
+  {
+    "q": "When people commit the Fundamental Attribution Error when judging the behavior of others, they tend to overemphasize ____ and underemphasize ___.",
+    "options": [
+      "normative influence; informational influence",
+      "situational attributions; dispositional attributions",
+      "dispositional attributions; situational attributions",
+      "informational influence; normative influence"
+    ],
+    "answer": 2,
+    "reason": "The Fundamental Attribution Error involves overestimating personality (disposition) and underestimating the situation."
+  },
+  {
+    "q": "We are swayed by ____ when we conform to seek social approval or to avoid the discomfort of disapproval or rejection.",
+    "options": [
+      "normative social influence",
+      "cognitive dissonance",
+      "informational social influence",
+      "obedience"
+    ],
+    "answer": 0,
+    "reason": "Normative social influence results from a person's desire to gain approval or avoid disapproval."
+  },
+  {
+    "q": "In one research study, participants were paid either 50 cents or $30 to spend an hour performing a boring task (circling all of the vowels in the words in a paragraph). Afterwards, they were asked how much they enjoyed the task. According to cognitive dissonance theory, which group would report enjoying the task more?",
+    "options": [
+      "both groups would be equal",
+      "the group paid $30",
+      "the group paid 50 cents",
+      "None of the above"
+    ],
+    "answer": 2,
+    "reason": "Those paid less ($0.50) experience higher dissonance (boring task + low pay), so they adjust their attitude to believe the task was enjoyable to resolve the tension."
+  },
+  {
+    "q": "Which of the following manipulations of the Milgram obedience study would make the participant (the “teacher”) more likely to shock the “learner”?",
+    "options": [
+      "Having someone else in the room disobey the orders",
+      "Having the authority figure give orders from another room or over the phone",
+      "Having the authority figure say they are from a very prestigious university",
+      "Having the learner in the same room as the teacher"
+    ],
+    "answer": 2,
+    "reason": "Obedience increases when the authority figure is perceived as legitimate and supported by a prestigious institution."
+  },
+  {
+    "q": "Philip Zimbardo devised a simulated prison and randomly assigned college students to serve as prisoners or guards. This experiment best illustrated the impact of:",
+    "options": [
+      "role playing on attitudes",
+      "team membership on social loafing",
+      "frustration on aggression",
+      "the just-world phenomenon on prejudice"
+    ],
+    "answer": 0,
+    "reason": "The Stanford Prison Experiment demonstrated how adopting a role can powerfully affect attitudes and behaviors."
+  },
+  {
+    "q": "People tend to perceive the members of an outgroup as ___ each other and the members of an ingroup as ___ each other.",
+    "options": [
+      "similar to; different from",
+      "similar to; similar to",
+      "different from; different from",
+      "different from; similar to"
+    ],
+    "answer": 0,
+    "reason": "Outgroup homogeneity bias leads us to view outgroup members as very similar, while recognizing diversity within our ingroup."
+  },
+  {
+    "q": "Expert pool players were observed to make 71% of their shots when alone. When a group of people watched them, they made 80% of their shots. This result best illustrates:",
+    "options": [
+      "the mere exposure effect",
+      "group polarization",
+      "social facilitation",
+      "the bystander effect"
+    ],
+    "answer": 2,
+    "reason": "Social facilitation is the strengthening of dominant responses (like an expert's play) in the presence of others."
+  },
+  {
+    "q": "The “bystander effect” states that a particular bystander is less likely to give aid if:",
+    "options": [
+      "the incident occurs in a deserted or rural area",
+      "no one else is present",
+      "the victim is similar to the bystander in appearance",
+      "other people are present"
+    ],
+    "answer": 3,
+    "reason": "The bystander effect posits that the presence of others diffuses responsibility, making individuals less likely to help."
+  },
+  {
+    "q": "According to the psychoanalytic view of development, we all pass through a series of psychosexual stages, including the oral, anal, and phallic stages. Conflicts unresolved at any of these stages may lead to:",
+    "options": [
+      "fixation at that stage",
+      "preconscious blocking of impulses",
+      "dormant sexual feelings",
+      "a distorted gender identity"
+    ],
+    "answer": 0,
+    "reason": "Freud believed unresolved conflicts result in fixation, where energy remains locked in that stage."
+  },
+  {
+    "q": "Jose is unconsciously angry at his roommate, so he goes out of his way to be kind and helpful. What kind of defense mechanism would Freud suggest Jose is using?",
+    "options": ["denial", "reaction formation", "projection", "displacement"],
+    "answer": 1,
+    "reason": "Reaction formation involves switching unacceptable impulses (anger) into their opposites (kindness)."
+  },
+  {
+    "q": "Modern-day psychodynamic theorists and therapists agree with Freud about:",
+    "options": [
+      "the existence of unconscious mental processes",
+      "the Oedipus complex",
+      "the predictive value of Freudian theory",
+      "the superego's role as the executive part of personality"
+    ],
+    "answer": 0,
+    "reason": "While rejecting many specific Freudian ideas, modern theorists accept the importance of the unconscious."
+  },
+  {
+    "q": "Maslow’s hierarchy of needs proposes that we must satisfy ___ needs (such as love and self-esteem) before we seek ___ needs, such as self-actualization.",
+    "options": [
+      "psychological; basic",
+      "self-fulfillment; basic",
+      "psychological; self-fulfillment",
+      "self-fulfillment; psychological"
+    ],
+    "answer": 2,
+    "reason": "Maslow's hierarchy requires satisfying deficiency needs (like psychological needs) before growth needs (self-fulfillment)."
+  },
+  {
+    "q": "A psychologist believes that unconscious motives are irrelevant—he focuses on describing people’s characteristic behaviors and conscious motives by asking them to take personality inventories and self-report questionnaires. Which theory of personality does this psychologist probably support?",
+    "options": ["Psychodynamic", "Trait", "Social-Cognitive", "Humanistic"],
+    "answer": 1,
+    "reason": "Trait theory focuses on describing stable personality characteristics using inventories, rather than explaining unconscious causes."
+  },
+  {
+    "q": "A person who is organized and disciplined and tends to carefully set and pursue future goals is likely to score high on the ___ trait when taking the Big Five personality test.",
+    "options": [
+      "Extraversion",
+      "Conscientiousness",
+      "Neuroticism",
+      "Agreeableness"
+    ],
+    "answer": 1,
+    "reason": "Conscientiousness implies being organized, dependable, and disciplined."
+  },
+  {
+    "q": "A therapist says that psychological disorders are sicknesses, and people with these disorders should be treated as patients in a hospital. This therapist believes in the ___ model.",
+    "options": ["biopsychosocial", "diagnostic", "epigenetics", "medical"],
+    "answer": 3,
+    "reason": "The medical model views psychological disorders as physical diseases that can be diagnosed and treated."
+  },
+  {
+    "q": "An episode of intense dread that can be accompanied by chest pains, choking sensations, or other frightening sensations is called ___.",
+    "options": [
+      "a compulsion",
+      "a panic attack",
+      "an obsession",
+      "a specific phobia"
+    ],
+    "answer": 1,
+    "reason": "A panic attack is a sudden episode of intense fear and physical symptoms."
+  },
+  {
+    "q": "Briana has been experiencing intrusive and widespread feelings of worry for the last 8 months. Although she is unable to identify what is causing these feelings, she frequently experiences dizziness, sweaty palms, and ringing in her ears. What type of anxiety disorder is Briana likely suffering from?",
+    "options": [
+      "obsessive-compulsive disorder",
+      "post-traumatic stress disorder",
+      "generalized anxiety disorder",
+      "panic disorder"
+    ],
+    "answer": 2,
+    "reason": "Generalized Anxiety Disorder (GAD) is characterized by chronic, excessive worry not tied to a specific threat."
+  },
+  {
+    "q": "The learning perspective proposes that phobias are:",
+    "options": [
+      "conditioned fears",
+      "the result of individual genetic makeup",
+      "a way of repressing unacceptable impulses",
+      "a symptom of having been abused as a child"
+    ],
+    "answer": 0,
+    "reason": "The learning perspective views phobias as fears acquired through conditioning (associating an object with fear)."
+  },
+  {
+    "q": "Nelson has been struggling with his emotions and motivation for the last few years. For days and weeks (and sometimes months) at a time, he feels a loss of interest in activities he used to enjoy, and suffers from insomnia, fatigue, and a loss of appetite. But long stretches of these moods are punctuated by days-long bouts of intensely positive feelings and high energy, during which he feels creative, reckless, and sexually uninhibited. What is Nelson likely suffering from?",
+    "options": [
+      "dysthymia",
+      "bipolar disorder",
+      "major depressive disorder",
+      "mania"
+    ],
+    "answer": 1,
+    "reason": "Bipolar disorder involves alternating periods of depression and mania (high energy, recklessness)."
+  },
+  {
+    "q": "If you meet a psychologist who emphasizes that depression is influenced by a person’s negative perceptions, beliefs, and thoughts, then they are likely to believe in the ___ perspective of depression.",
+    "options": ["social-cognitive", "learning", "biological", "psychodynamic"],
+    "answer": 0,
+    "reason": "The social-cognitive perspective explores how people's assumptions and expectations (cognitions) influence their behavior and mood."
+  },
+  {
+    "q": "The purpose of a linkage analysis is to…",
+    "options": [
+      "identify the genes that put people at risk for developing a mood disorder",
+      "link epigenetic events to the onset of mood disorders",
+      "estimate the heritability of mood disorders",
+      "estimate the influence of environment on mood disorders"
+    ],
+    "answer": 0,
+    "reason": "Linkage analysis tracks genetic markers in families to locate genes associated with disorders."
+  },
+  {
+    "q": "A person with positive symptoms of schizophrenia is most likely to experience:",
+    "options": ["flat emotion", "catatonia", "delusions", "catatonia"],
+    "answer": 2,
+    "reason": "Positive symptoms involve the presence of abnormal behaviors, such as hallucinations and delusions."
+  },
+  {
+    "q": "A person who hallucinates voices and objects that other people do not see or hear, and who is obsessed with false beliefs that they are being tracked by the government would be described as having ___ schizophrenia.",
+    "options": ["paranoid", "catatonic", "disorganized", "residual"],
+    "answer": 0,
+    "reason": "Paranoid schizophrenia is characterized by delusions of persecution or grandeur and hallucinations."
+  },
+  {
+    "q": "Rashod experiences a mental disorder in which his conscious awareness seems to be split into multiple distinct personalities, each with its own interests, mannerisms, and memories. Given these symptoms, Rashod would most likely be diagnosed with __.",
+    "options": [
+      "antisocial personality disorder",
+      "dissociative identity disorder",
+      "borderline personality disorder",
+      "schizophrenia"
+    ],
+    "answer": 1,
+    "reason": "Dissociative Identity Disorder (DID) involves the presence of two or more distinct personality states."
+  },
+  {
+    "q": "A personality disorder, such as antisocial personality, is characterized by:",
+    "options": [
+      "depression and manic episodes",
+      "an elevated level of autonomic nervous system arousal",
+      "hallucinations and disordered thinking",
+      "inflexible and enduring behavior patterns that impair social functioning"
+    ],
+    "answer": 3,
+    "reason": "Personality disorders are defined by rigid, maladaptive patterns of behavior that disrupt social functioning."
+  },
+  {
+    "q": "Schizotypal personality disorders (also sometimes called “cluster A” personality disorders) are marked by…",
+    "options": [
+      "emotionless disengagement",
+      "anxiety and fear of rejection",
+      "dramatic or impulsive behaviors",
+      "eccentric or odd behaviors"
+    ],
+    "answer": 3,
+    "reason": "Cluster A disorders (like Schizotypal) are characterized by odd or eccentric behaviors."
+  },
+  {
+    "q": "Which type of therapy trains people to counter self-harmful thoughts and act out new ways of thinking in order to promote healthier thinking and adaptive behaviors?",
+    "options": [
+      "cognitive-behavioral",
+      "psychodynamic",
+      "group and family",
+      "humanistic"
+    ],
+    "answer": 0,
+    "reason": "Cognitive-behavioral therapy (CBT) combines changing self-defeating thinking with changing inappropriate behaviors."
+  },
+  {
+    "q": "The goal of family and group therapy is to:",
+    "options": [
+      "improve learning and insight",
+      "improve communication and social sensitivity",
+      "eliminate unwanted behaviors",
+      "identify and treat the underlying causes of the problem"
+    ],
+    "answer": 1,
+    "reason": "Group therapy emphasizes social interaction, aiming to improve communication and sensitivity to others."
+  },
+  {
+    "q": "The technique of ___ teaches people to relax in the presence of progressively more anxiety-provoking stimuli.",
+    "options": [
+      "systematic desensitization",
+      "active listening",
+      "aversive conditioning",
+      "counterconditioning"
+    ],
+    "answer": 0,
+    "reason": "Systematic desensitization associates a pleasant relaxed state with gradually increasing anxiety-triggering stimuli."
+  },
+  {
+    "q": "Devin went to medical school in order to better understand psychological disorders and treatment. He received a fair amount of training in psychotherapy, and he is able to prescribe medications for patients who attend his private practice. Devin’s role is best described as a ___.",
+    "options": [
+      "clinical psychologist",
+      "psychiatric social worker",
+      "counselor",
+      "psychiatrist"
+    ],
+    "answer": 3,
+    "reason": "Psychiatrists are medical doctors (MDs) who can prescribe medication and treat physical causes of psychological disorders."
+  },
+  {
+    "q": "Which type(s) of therapy have been found to be most effective for treating phobias, compulsions, and sexual dysfunctions?",
+    "options": [
+      "cognitive and cognitive-behavioral therapies",
+      "psychodynamic therapy",
+      "A and C",
+      "behavioral conditioning therapies"
+    ],
+    "answer": 3,
+    "reason": "Behavioral therapies are particularly effective for specific problems like phobias and compulsions."
+  },
+  {
+    "q": "Evidence-based practice is an approach to clinical decision-making that values ___ when choosing a particular psychotherapy to recommend to patients.",
+    "options": [
+      "the patient's preferences and characteristics",
+      "all of the above",
+      "the clinician's expertise",
+      "the best available research evidence"
+    ],
+    "answer": 1,
+    "reason": "Evidence-based practice integrates research evidence, clinical expertise, and patient characteristics."
+  },
+  {
+    "q": "When drugs are used to treat depression, they are generally meant to ___ the supply of ___ by blocking the reuptake of the neurotransmitter.",
+    "options": [
+      "decrease, dopamine",
+      "increase, serotonin",
+      "increase, dopamine",
+      "decrease, serotonin"
+    ],
+    "answer": 1,
+    "reason": "Antidepressants (like SSRIs) typically work by increasing the availability of serotonin in the synapse."
+  },
+  {
+    "q": "An approach that seeks to identify and alleviate conditions that put people at high risk for developing psychological disorders is called:",
+    "options": [
+      "preventive mental health",
+      "spontaneous recovery",
+      "deep-brain stimulation",
+      "the mood-stabilizing perspective"
+    ],
+    "answer": 0,
+    "reason": "Preventive mental health focuses on preventing psychological problems by identifying and alleviating risk conditions."
+  }
+]

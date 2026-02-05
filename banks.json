@@ -1,0 +1,10 @@
+[
+  {
+    "name": "PSYC 1 - Hurwitz",
+    "sources": ["psyc_1_b1.json", "psyc_1_b2.json", "psyc_1_b3.json"]
+  },
+  {
+    "name": "ECON 1 - Famulari",
+    "sources": ["econ_1_b1.json"]
+  }
+]

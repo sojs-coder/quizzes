@@ -1,0 +1,517 @@
+[
+  {
+    "q": "Which of the following describes a 'normative' economic statement?",
+    "options": [
+      "The unemployment rate is 5%.",
+      "A higher minimum wage will reduce employment.",
+      "The government should increase the minimum wage to help the poor.",
+      "The price of corn fell by 20% last year."
+    ],
+    "answer": 2,
+    "reason": "Normative statements are based on value judgments or what 'ought to be' and cannot be proven right or wrong through data alone."
+  },
+  {
+    "q": "If an autoshop charges $1,000 for a repair, and you have a $750 deductible after which the insurance pays 70%, what is the correct equation for your cost (C)?",
+    "options": [
+      "C = 0.7 * 1000",
+      "C = 750 + (1000 - 750) * 0.3",
+      "C = 750 + (1000 - 750) * 0.7",
+      "C = 1000 * 0.3"
+    ],
+    "answer": 1,
+    "reason": "You pay the full deductible ($750) plus your 30% share of the remaining $250."
+  },
+  {
+    "q": "The Scarcity Principle implies that having more of one good means:",
+    "options": [
+      "Resources are being used inefficiently.",
+      "Having less of another good.",
+      "The economy is in a recession.",
+      "Wants have been fully satisfied."
+    ],
+    "answer": 1,
+    "reason": "Because resources are limited, obtaining more of one thing requires a trade-off—giving up something else."
+  },
+  {
+    "q": "If Amy can catch 4 fish/hour or 5 logs/hour, and David can catch 4 fish/hour or 5 logs/hour, what are the gains from trade?",
+    "options": ["Positive", "Negative", "Zero", "Infinite"],
+    "answer": 2,
+    "reason": "If opportunity costs are identical, there is no comparative advantage and therefore no mutual gain from specialization."
+  },
+  {
+    "q": "A point located inside (to the left of) a Production Possibilities Curve (PPC) represents:",
+    "options": [
+      "An efficient use of resources.",
+      "An unattainable production level.",
+      "Inefficient use of resources or unemployed resources.",
+      "A technological breakthrough."
+    ],
+    "answer": 2,
+    "reason": "The PPC shows the maximum possible production; points inside it mean the economy is not producing as much as it could."
+  },
+  {
+    "q": "If the price of a complement (like coffee creamer) increases, what happens to the demand for the primary good (coffee)?",
+    "options": [
+      "Demand shifts right.",
+      "Demand shifts left.",
+      "Quantity demanded increases.",
+      "Supply shifts left."
+    ],
+    "answer": 1,
+    "reason": "Complements are used together; if one becomes expensive, the demand for the other falls."
+  },
+  {
+    "q": "If the price of a substitute (like tea) increases, what happens to the demand for the primary good (coffee)?",
+    "options": [
+      "Demand shifts right.",
+      "Demand shifts left.",
+      "Quantity demanded decreases.",
+      "Supply shifts right."
+    ],
+    "answer": 0,
+    "reason": "When a substitute becomes more expensive, consumers switch to the primary good, increasing its demand."
+  },
+  {
+    "q": "What happens to the equilibrium price and quantity of a normal good when consumer income rises?",
+    "options": [
+      "Price falls, quantity rises.",
+      "Price rises, quantity falls.",
+      "Both price and quantity rise.",
+      "Both price and quantity fall."
+    ],
+    "answer": 2,
+    "reason": "Rising income for a normal good shifts the demand curve to the right, increasing both equilibrium price and quantity."
+  },
+  {
+    "q": "If Qd = 100 - P and Qs = 10 + 2P, what is the equilibrium price?",
+    "options": ["$20", "$30", "$40", "$50"],
+    "answer": 1,
+    "reason": "Set Qd = Qs: 100 - P = 10 + 2P -> 90 = 3P -> P = 30."
+  },
+  {
+    "q": "Using the same equations (Qd = 100 - P, Qs = 10 + 2P), what is the equilibrium quantity?",
+    "options": ["60", "70", "80", "110"],
+    "answer": 1,
+    "reason": "Plug P = 30 into either equation: 100 - 30 = 70."
+  },
+  {
+    "q": "If a technological advance doubles productivity for Good X but not Good Y, the PPC will:",
+    "options": [
+      "Shift outward parallel.",
+      "Pivot outward from the Good Y intercept.",
+      "Pivot outward from the Good X intercept.",
+      "Shift inward."
+    ],
+    "answer": 1,
+    "reason": "The maximum amount of Good Y stays the same, while the maximum for Good X increases, causing a pivot."
+  },
+  {
+    "q": "In a free market, if there is excess demand, how is equilibrium restored?",
+    "options": [
+      "Sellers lower prices.",
+      "Buyers bid prices higher.",
+      "The government sets a price floor.",
+      "Supply automatically shifts right."
+    ],
+    "answer": 1,
+    "reason": "Shortages (excess demand) cause buyers to compete, pushing the price up until quantity demanded equals quantity supplied."
+  },
+  {
+    "q": "If Lauren's reservation price for a bike is $185 and she sells it to Tom for $195, what is Lauren's (seller's) surplus?",
+    "options": ["$10", "$25", "$35", "$185"],
+    "answer": 0,
+    "reason": "Seller's surplus = Sale Price - Reservation Price: $195 - $185 = $10."
+  },
+  {
+    "q": "If both supply and demand decrease simultaneously, which outcome is certain?",
+    "options": [
+      "Price will fall.",
+      "Price will rise.",
+      "Quantity will fall.",
+      "Quantity will rise."
+    ],
+    "answer": 2,
+    "reason": "Both shifts pull quantity down, but their effects on price oppose each other and are therefore ambiguous."
+  },
+  {
+    "q": "A 'Price Ceiling' is only 'binding' or effective if it is set:",
+    "options": [
+      "Above the equilibrium price.",
+      "Below the equilibrium price.",
+      "At the equilibrium price.",
+      "By the consumers."
+    ],
+    "answer": 1,
+    "reason": "If a ceiling is above equilibrium, the market naturally settles at the lower equilibrium price anyway."
+  },
+  {
+    "q": "What is the opportunity cost of an activity?",
+    "options": [
+      "Only the explicit monetary cost.",
+      "Only the time spent.",
+      "The value of the next best alternative that must be foregone.",
+      "The total cost of all alternatives."
+    ],
+    "answer": 2,
+    "reason": "Opportunity cost includes both explicit costs (money) and implicit costs (value of lost time/wages)."
+  },
+  {
+    "q": "Comparative advantage is based on having:",
+    "options": [
+      "The lowest absolute cost.",
+      "The highest productivity.",
+      "The lowest opportunity cost.",
+      "The most resources."
+    ],
+    "answer": 2,
+    "reason": "An individual has a comparative advantage if they can perform a task at a lower opportunity cost than others."
+  },
+  {
+    "q": "An increase in the cost of raw materials for production will cause:",
+    "options": [
+      "A movement up along the supply curve.",
+      "The supply curve to shift left.",
+      "The demand curve to shift left.",
+      "The supply curve to shift right."
+    ],
+    "answer": 1,
+    "reason": "Higher input costs make production less profitable at every price, decreasing supply."
+  },
+  {
+    "q": "If the price of a good is $20 and the quantity supplied is 10, but quantity demanded is 35, there is a:",
+    "options": [
+      "Surplus of 25.",
+      "Shortage of 25.",
+      "Surplus of 15.",
+      "Shortage of 15."
+    ],
+    "answer": 1,
+    "reason": "Shortage = Qd - Qs = 35 - 10 = 25."
+  },
+  {
+    "q": "If a country has an 'absolute advantage' in a product, it means:",
+    "options": [
+      "They should never trade with others.",
+      "They can produce more of it using the same resources.",
+      "They have the lowest opportunity cost.",
+      "They have no scarcity."
+    ],
+    "answer": 1,
+    "reason": "Absolute advantage refers to raw productivity (more output per unit of input) rather than opportunity cost."
+  },
+  {
+    "q": "The slope of a linear Production Possibilities Curve represents:",
+    "options": [
+      "The total wealth of the nation.",
+      "The opportunity cost of one good in terms of the other.",
+      "The rate of inflation.",
+      "The demand for the products."
+    ],
+    "answer": 1,
+    "reason": "The absolute value of the slope shows how much of the Y-axis good must be given up to get one more unit of the X-axis good."
+  },
+  {
+    "q": "If you observe price rising and quantity falling, which shift likely occurred?",
+    "options": [
+      "Demand shifted right.",
+      "Demand shifted left.",
+      "Supply shifted right.",
+      "Supply shifted left."
+    ],
+    "answer": 3,
+    "reason": "A decrease in supply (shift left) leads to higher prices and lower quantities."
+  },
+  {
+    "q": "If you observe price falling and quantity falling, which shift likely occurred?",
+    "options": [
+      "Demand shifted left.",
+      "Demand shifted right.",
+      "Supply shifted left.",
+      "Supply shifted right."
+    ],
+    "answer": 0,
+    "reason": "A decrease in demand (shift left) leads to lower prices and lower quantities."
+  },
+  {
+    "q": "Reservation price is defined as:",
+    "options": [
+      "The price set by the government.",
+      "The maximum a buyer is willing to pay or minimum a seller is willing to accept.",
+      "The average market price.",
+      "The cost of production plus 10%."
+    ],
+    "answer": 1,
+    "reason": "It represents the 'break-even' point for a consumer or producer in a transaction."
+  },
+  {
+    "q": "An 'inferior good' is one where:",
+    "options": [
+      "Quality is poor.",
+      "Demand falls as income rises.",
+      "Demand rises as income rises.",
+      "There are no substitutes."
+    ],
+    "answer": 1,
+    "reason": "Income and demand move in opposite directions for inferior goods."
+  },
+  {
+    "q": "Economic efficiency is reached when:",
+    "options": [
+      "Everyone has the same amount of money.",
+      "Total surplus is maximized.",
+      "Prices are as low as possible.",
+      "The government controls all markets."
+    ],
+    "answer": 1,
+    "reason": "Efficiency occurs when all units where marginal benefit exceeds marginal cost are produced, maximizing the sum of buyer and seller surplus[cite: 21, 95]."
+  },
+  {
+    "q": "The 'Invisible Hand' theory suggests that:",
+    "options": [
+      "The government must guide all transactions.",
+      "Self-interested individuals in a market can lead to socially efficient outcomes.",
+      "Markets are always unfair.",
+      "Supply and demand do not work in the real world."
+    ],
+    "answer": 1,
+    "reason": "The theory posits that market prices signal information that coordinates production and consumption efficiently[cite: 95]."
+  },
+  {
+    "q": "On a graph, Consumer Surplus is the area:",
+    "options": [
+      "Above the price and below the demand curve.",
+      "Below the price and above the supply curve.",
+      "Between the supply and demand curves.",
+      "Below the supply curve."
+    ],
+    "answer": 0,
+    "reason": "It represents the difference between what consumers were willing to pay and what they actually paid."
+  },
+  {
+    "q": "If a supply curve is described by the table [Price $20, Q 50] and [Price $30, Q 60], and it changes to [Price $20, Q 40] and [Price $30, Q 50], this is:",
+    "options": [
+      "An increase in supply.",
+      "A decrease in supply.",
+      "An increase in quantity supplied.",
+      "A decrease in demand."
+    ],
+    "answer": 1,
+    "reason": "At every price, the quantity supplied has decreased, which is a shift of the supply curve to the left."
+  },
+  {
+    "q": "The principle that 'Individuals should specialize in tasks for which their opportunity cost is lowest' is the:",
+    "options": [
+      "Scarcity Principle.",
+      "Cost-Benefit Principle.",
+      "Principle of Comparative Advantage.",
+      "Equilibrium Principle."
+    ],
+    "answer": 2,
+    "reason": "Specialization according to comparative advantage increases total production for all parties."
+  },
+  {
+    "q": "If Kendall pays $15 for a movie and skips a $20 job she would have done for free, her opportunity cost is:",
+    "options": ["$15", "$20", "$35", "$5"],
+    "answer": 2,
+    "reason": "Total cost = Explicit ($15 ticket) + Implicit ($20 lost wages) = $35."
+  },
+  {
+    "q": "If an island gives up 3 fish for every 1 coconut it produces, it will accept a trade deal of:",
+    "options": [
+      "1 coconut for 2 fish.",
+      "1 coconut for 4 fish.",
+      "2 fish for 1 coconut.",
+      "1 fish for 2 coconuts."
+    ],
+    "answer": 1,
+    "reason": "They must receive at least their opportunity cost (3 fish) to be better off; 4 fish is greater than 3."
+  },
+  {
+    "q": "A change in the 'Quantity Demanded' is illustrated by:",
+    "options": [
+      "A shift of the demand curve.",
+      "A movement along the demand curve caused by a price change.",
+      "A change in consumer income.",
+      "A change in the price of a substitute."
+    ],
+    "answer": 1,
+    "reason": "Only a change in the price of the good itself causes a movement 'along' the curve."
+  },
+  {
+    "q": "If a market is in equilibrium and the government imposes a 'Price Floor' above the equilibrium price, it creates a:",
+    "options": [
+      "Shortage.",
+      "Surplus.",
+      "Black market for lower prices.",
+      "Shortage and a surplus."
+    ],
+    "answer": 1,
+    "reason": "A price floor prevents the price from falling; at high prices, Qs > Qd, causing a surplus."
+  },
+  {
+    "q": "The 'Law of Demand' states that:",
+    "options": [
+      "As price rises, demand falls.",
+      "As price rises, quantity demanded falls.",
+      "As income rises, demand rises.",
+      "As supply rises, price falls."
+    ],
+    "answer": 1,
+    "reason": "There is an inverse relationship between price and the quantity of a good consumers are willing to buy[cite: 20, 95]."
+  },
+  {
+    "q": "The 'Law of Supply' states that:",
+    "options": [
+      "As price rises, supply increases.",
+      "As price rises, quantity supplied increases.",
+      "Technology increases supply.",
+      "Supply creates its own demand."
+    ],
+    "answer": 1,
+    "reason": "Producers are willing to sell more units at higher prices, resulting in an upward-sloping supply curve[cite: 20, 95]."
+  },
+  {
+    "q": "If the equation of a line is Y = 50 + 2X, what is the value of Y when X = 5?",
+    "options": ["50", "52", "60", "10"],
+    "answer": 2,
+    "reason": "Y = 50 + 2(5) = 50 + 10 = 60."
+  },
+  {
+    "q": "If the price of a good increases, what happens to the 'Seller's Surplus' for those who were already selling at the lower price?",
+    "options": [
+      "It decreases.",
+      "It increases.",
+      "It stays the same.",
+      "It becomes zero."
+    ],
+    "answer": 1,
+    "reason": "Sellers receive more money for the same units, increasing the gap between price and reservation price."
+  },
+  {
+    "q": "In the Supply/Demand model, 'Equilibrium' is the point where:",
+    "options": [
+      "Total revenue is maximized.",
+      "The government stops intervening.",
+      "Quantity Demanded equals Quantity Supplied.",
+      "The curves are furthest apart."
+    ],
+    "answer": 2,
+    "reason": "Equilibrium is the 'clearing' price where there is no incentive for price to change."
+  },
+  {
+    "q": "Which of the following would NOT shift the demand curve for beef?",
+    "options": [
+      "An increase in the price of chicken (substitute).",
+      "A report saying beef causes health issues.",
+      "A decrease in the price of beef.",
+      "An increase in consumer income."
+    ],
+    "answer": 2,
+    "reason": "A change in the price of beef causes a movement along the demand curve, not a shift."
+  },
+  {
+    "q": "If a country has a linear PPC and the opportunity cost of 1 unit of X is 2 units of Y, then the opportunity cost of 1 unit of Y is:",
+    "options": [
+      "2 units of X.",
+      "1 unit of X.",
+      "0.5 units of X.",
+      "4 units of X."
+    ],
+    "answer": 2,
+    "reason": "The opportunity costs of two goods are reciprocals of each other."
+  },
+  {
+    "q": "When a market is in equilibrium, which of the following is TRUE?",
+    "options": [
+      "Buyer surplus equals seller surplus.",
+      "There is no deadweight loss.",
+      "Quantity demanded is zero.",
+      "Every consumer can afford the good."
+    ],
+    "answer": 1,
+    "reason": "At equilibrium in a perfectly competitive market, total surplus is maximized and there is no inefficiency[cite: 21]."
+  },
+  {
+    "q": "What is the primary market discussed if an article analyzes 'the shift in consumer preferences toward electric cars'?",
+    "options": [
+      "The labor market.",
+      "The electric car market.",
+      "The gasoline market.",
+      "The housing market."
+    ],
+    "answer": 1,
+    "reason": "The primary market is the specific good or service experiencing the change[cite: 98, 99]."
+  },
+  {
+    "q": "If an increase in price from $10 to $20 causes quantity demanded to fall from 100 to 50, this is a:",
+    "options": [
+      "Change in demand.",
+      "Change in quantity demanded.",
+      "Change in supply.",
+      "Change in quantity supplied."
+    ],
+    "answer": 1,
+    "reason": "The change was caused by a price change within the same market."
+  },
+  {
+    "q": "A production point is 'attainable' if it lies:",
+    "options": [
+      "Only on the PPC.",
+      "On or inside the PPC.",
+      "Outside the PPC.",
+      "At the origin."
+    ],
+    "answer": 1,
+    "reason": "Attainable points are those the economy has the resources to produce."
+  },
+  {
+    "q": "If two goods are complements, and the price of one increases, the equilibrium quantity of the other will:",
+    "options": ["Increase.", "Decrease.", "Stay the same.", "Double."],
+    "answer": 1,
+    "reason": "The demand for the second good shifts left, lowering its equilibrium quantity."
+  },
+  {
+    "q": "Elasticity (to be covered in Week 3) generally measures:",
+    "options": [
+      "The slope of the curve.",
+      "How much quantity responds to a change in price.",
+      "The total profit of a firm.",
+      "The scarcity of a resource."
+    ],
+    "answer": 1,
+    "reason": "Elasticity is the responsiveness of one variable to changes in another[cite: 95]."
+  },
+  {
+    "q": "If a market has a shortage, we expect the price to:",
+    "options": [
+      "Fall.",
+      "Rise.",
+      "Stay the same.",
+      "Be set by the government."
+    ],
+    "answer": 1,
+    "reason": "Competition among buyers for limited units drives the price up."
+  },
+  {
+    "q": "An increase in the number of sellers in a market will:",
+    "options": [
+      "Shift the demand curve right.",
+      "Shift the supply curve right.",
+      "Shift the supply curve left.",
+      "Cause a movement along the supply curve."
+    ],
+    "answer": 1,
+    "reason": "More sellers increase the total quantity supplied at every price point[cite: 95]."
+  },
+  {
+    "q": "Economic models are primarily used to:",
+    "options": [
+      "Predict the future with 100% accuracy.",
+      "Simplify reality to understand complex relationships.",
+      "Replace the need for data.",
+      "Justify political opinions."
+    ],
+    "answer": 1,
+    "reason": "Models help isolate specific variables, such as supply and demand, to analyze market outcomes[cite: 19, 95]."
+  }
+]

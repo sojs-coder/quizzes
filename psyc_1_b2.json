@@ -1,0 +1,502 @@
+[
+  {
+    "q": "What is the primary goal of psychological science according to the notes?",
+    "options": [
+      "To prescribe medication for mental illness",
+      "To study the processes and outputs of the mind",
+      "To analyze the biological structure of the brain only",
+      "To prove that common sense is incorrect"
+    ],
+    "answer": 1,
+    "reason": "The notes define psychological science as the study of the processes and outputs of the mind."
+  },
+  {
+    "q": "Which level of analysis in psychology focuses on genetic predisposition and adaptive physiology?",
+    "options": ["Social", "Psychological", "Biological", "Cultural"],
+    "answer": 2,
+    "reason": "The biological level of analysis covers genetic predisposition and adaptive physiology."
+  },
+  {
+    "q": "How does the 'spacing effect' suggest you should study to improve recall?",
+    "options": [
+      "Cramming all information the night before",
+      "Spacing studying out over time",
+      "Studying only when you feel motivated",
+      "Testing yourself immediately after learning"
+    ],
+    "answer": 1,
+    "reason": "The spacing effect is the improvement in recall that results from spacing studying out over time rather than cramming."
+  },
+  {
+    "q": "Which school of thought focuses on how the brain is partitioned and structured?",
+    "options": ["Functionalism", "Behaviorism", "Structuralism", "Humanism"],
+    "answer": 2,
+    "reason": "Structuralism is defined as the study of how the brain is partitioned and structured."
+  },
+  {
+    "q": "What is the primary difference between descriptive and experimental research?",
+    "options": [
+      "Descriptive research manipulates variables; experimental describes them",
+      "Descriptive research uses math; experimental does not",
+      "Experimental research manipulates an independent variable to find causation",
+      "Descriptive research is always done in a lab"
+    ],
+    "answer": 2,
+    "reason": "Experimental research aims to find the cause of a phenomena by manipulating an independent variable, whereas descriptive research aims to describe a phenomena."
+  },
+  {
+    "q": "What problem exists when it is hard to tell if variable A influences variable B, or if a third variable influences both?",
+    "options": [
+      "Directionality problem",
+      "Third variable problem",
+      "Hindsight bias",
+      "Barnum effect"
+    ],
+    "answer": 1,
+    "reason": "The third variable problem refers to the difficulty in determining if a third phenomena is influencing both factors, causing an apparent correlation."
+  },
+  {
+    "q": "Which part of the nervous system controls voluntary movements like walking and waving?",
+    "options": [
+      "Autonomic nervous system",
+      "Somatic nervous system",
+      "Sympathetic nervous system",
+      "Parasympathetic nervous system"
+    ],
+    "answer": 1,
+    "reason": "The somatic system controls voluntary movement."
+  },
+  {
+    "q": "Which lobe of the cortex is primarily responsible for eyesight?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Occipital lobe",
+      "Temporal lobe"
+    ],
+    "answer": 2,
+    "reason": "The occipital lobe is located in the back and is responsible for eyesight."
+  },
+  {
+    "q": "What is the function of the Amygdala within the limbic system?",
+    "options": [
+      "Memory formation",
+      "Hormone regulation",
+      "Emotional processing",
+      "Auditory processing"
+    ],
+    "answer": 2,
+    "reason": "The Amygdala is responsible for emotional processing."
+  },
+  {
+    "q": "What does a 'homunculus' represent in the context of neuroscience?",
+    "options": [
+      "A type of neuron",
+      "A human body scaled by the amount of brain space dedicated to processing its parts",
+      "The evolutionary history of the brain",
+      "A disorder of the parietal lobe"
+    ],
+    "answer": 1,
+    "reason": "The homunculus is a representation of the human body scaled according to the amount of brain space designated to processing information from it."
+  },
+  {
+    "q": "In operant conditioning, what is 'Negative Reinforcement'?",
+    "options": [
+      "Adding a favorable consequence to reward behavior",
+      "Removing an unfavorable consequence to reward behavior",
+      "Adding an unfavorable consequence to punish behavior",
+      "Removing a favorable consequence to punish behavior"
+    ],
+    "answer": 1,
+    "reason": "Negative reinforcement involves removing an unfavorable consequence in response to a wanted behavior."
+  },
+  {
+    "q": "Which reinforcement schedule results in a 'burst of responses' as the time for reward nears?",
+    "options": [
+      "Fixed Ratio",
+      "Variable Ratio",
+      "Fixed Interval",
+      "Variable Interval"
+    ],
+    "answer": 2,
+    "reason": "Fixed interval schedules cause a pause in response after reinforcement followed by a burst of responses as the time for reinforcement nears."
+  },
+  {
+    "q": "What is the process of moving a sense from sensory neurons to the brain for processing called?",
+    "options": [
+      "Perception",
+      "Sensory transduction",
+      "Top-down processing",
+      "Adaptation"
+    ],
+    "answer": 1,
+    "reason": "Sensory transduction is defined as moving a sense from sensory neurons to the brain for processing."
+  },
+  {
+    "q": "Which photoreceptors provide color signals (Red, Green, Blue)?",
+    "options": ["Rods", "Cones", "Corneas", "Pupils"],
+    "answer": 1,
+    "reason": "Cones give color signals (R, G, or B), while rods give light/dark signals."
+  },
+  {
+    "q": "Why do we see a complementary color after staring at a specific color for a long time?",
+    "options": [
+      "Retinal cone fatigue",
+      "Brain damage",
+      "Top-down processing errors",
+      "Lack of light"
+    ],
+    "answer": 0,
+    "reason": "Color after-effects are caused by retinal cone fatigue, where one type of cone gets fatigued from overstimulation."
+  },
+  {
+    "q": "Which type of processing involves analyzing each part of the whole to figure out what it is?",
+    "options": [
+      "Top-down processing",
+      "Bottom-up processing",
+      "Lateral processing",
+      "Parallel processing"
+    ],
+    "answer": 1,
+    "reason": "Bottom-up processing is described as analyzing each part of the whole to try to figure out what it is based on its components."
+  },
+  {
+    "q": "According to the Atkinson-Shiffrin model, what is the capacity of Short Term Memory (working memory)?",
+    "options": ["Unlimited", "5 +/- 2 chunks", "10 +/- 2 chunks", "100 items"],
+    "answer": 1,
+    "reason": "Working memory (or STM) usually holds 5 +/- 2 chunks of information."
+  },
+  {
+    "q": "Which part of the brain is responsible for encoding and storing implicit memories?",
+    "options": [
+      "Hippocampus",
+      "Basal Ganglia",
+      "Frontal Lobe",
+      "Occipital Lobe"
+    ],
+    "answer": 1,
+    "reason": "The Basal Ganglia is responsible for encoding and storing implicit memories."
+  },
+  {
+    "q": "What is 'Long-term potentiation'?",
+    "options": [
+      "The decay of memory over time",
+      "The strengthening of neuron connections when they fire together",
+      "The ability to remember things from childhood",
+      "A type of brain surgery"
+    ],
+    "answer": 1,
+    "reason": "Long-term potentiation is summarized by the phrase 'Neurons that fire together, wire together,' meaning connections are strengthened."
+  },
+  {
+    "q": "In Piaget's theory, what competency is developed during the Sensorimotor Stage?",
+    "options": [
+      "Abstract reasoning",
+      "Conservation",
+      "Object permanence",
+      "Moral logic"
+    ],
+    "answer": 2,
+    "reason": "Object permanence is the key competency developed during the Sensorimotor Stage."
+  },
+  {
+    "q": "Which stage of Kohlberg's moral development focuses on upholding laws and rules to gain social approval?",
+    "options": [
+      "Preconventional morality",
+      "Conventional morality",
+      "Postconventional morality",
+      "Unconventional morality"
+    ],
+    "answer": 1,
+    "reason": "Conventional morality is based on maintaining social order and upholding laws to gain social approval."
+  },
+  {
+    "q": "According to Erikson, what is the primary conflict during adolescence?",
+    "options": [
+      "Trust vs. Mistrust",
+      "Identity vs. Role Confusion",
+      "Intimacy vs. Isolation",
+      "Competence vs. Inferiority"
+    ],
+    "answer": 1,
+    "reason": "Adolescence is characterized by the conflict of Identity vs. Role confusion."
+  },
+  {
+    "q": "What is a phoneme?",
+    "options": [
+      "The smallest unit of meaning",
+      "A single sound 'unit'",
+      "A rule of grammar",
+      "A type of sentence"
+    ],
+    "answer": 1,
+    "reason": "Phonemes are defined as a single sound unit."
+  },
+  {
+    "q": "What happens if there is damage to Wernicke's Area?",
+    "options": [
+      "Difficulty creating language",
+      "Difficulty receiving/understanding language",
+      " blindness",
+      "Loss of balance"
+    ],
+    "answer": 1,
+    "reason": "Wernicke's Area is responsible for language reception; damage here affects understanding."
+  },
+  {
+    "q": "Which heuristic relies on information that is easiest to access or comes to mind quickly?",
+    "options": [
+      "Representativeness Heuristic",
+      "Availability Heuristic",
+      "Anchoring Heuristic",
+      "Framing Heuristic"
+    ],
+    "answer": 1,
+    "reason": "The Availability Heuristic is based on information that is easier to access or comes easiest to mind."
+  },
+  {
+    "q": "What is the 'Framing effect'?",
+    "options": [
+      "Putting a picture in a frame",
+      "Putting something in a different context depending on wording",
+      "Ignoring the background of an image",
+      "Creating a stereotype"
+    ],
+    "answer": 1,
+    "reason": "The framing effect is defined as putting something in a different context depending on the wording (e.g., 90% fat-free vs 10% fat)."
+  },
+  {
+    "q": "Which of the following is NOT one of the Big Five personality traits?",
+    "options": [
+      "Neuroticism",
+      "Conscientiousness",
+      "Agreeableness",
+      "Aggressiveness"
+    ],
+    "answer": 3,
+    "reason": "The Big Five are Neuroticism, Openness, Conscientiousness, Extraversion, and Agreeableness. Aggressiveness is not one of them."
+  },
+  {
+    "q": "What is the highest level in Maslow's Hierarchy of Needs?",
+    "options": ["Safety", "Belongingness", "Esteem", "Self-actualization"],
+    "answer": 3,
+    "reason": "Self-actualization is the top level of Maslow's hierarchy."
+  },
+  {
+    "q": "What does having an 'Internal locus of control' mean?",
+    "options": [
+      "Believing that external factors control your life",
+      "Believing that things happen due to internal factors and you have control",
+      "Believing that luck determines everything",
+      "Having high neuroticism"
+    ],
+    "answer": 1,
+    "reason": "Internal locus of control is the belief that things that happen are due to internal factors and that we have control over our own lives."
+  },
+  {
+    "q": "What is the Fundamental Attribution Error?",
+    "options": [
+      "Attributing behavior to the situation rather than disposition",
+      "Attributing behavior to disposition rather than the situation",
+      "Forgetting to attribute a source in a paper",
+      "Believing everyone agrees with you"
+    ],
+    "answer": 1,
+    "reason": "Fundamental attribution error is attributing the attitudes of a person based on their disposition rather than their situation."
+  },
+  {
+    "q": "In Festinger's cognitive dissonance study, why did people paid a small amount of money rate the boring task higher?",
+    "options": [
+      "They were bribed to do so",
+      "They had to change their perspective to resolve the internal conflict of lying for little money",
+      "They genuinely enjoyed the task more than the other group",
+      "They were afraid of the researcher"
+    ],
+    "answer": 1,
+    "reason": "They rated it higher to resolve the dissonance; by believing the task was fun, they were no longer 'lying' for a small amount of money."
+  },
+  {
+    "q": "What is the difference between prejudice and discrimination?",
+    "options": [
+      "Prejudice is an action; discrimination is a thought",
+      "Prejudice is an attitude; discrimination is an action/treatment",
+      "They are the same thing",
+      "Discrimination is positive; prejudice is negative"
+    ],
+    "answer": 1,
+    "reason": "Prejudice is an attitude (often negative), while discrimination is giving members of a group different treatment (action)."
+  },
+  {
+    "q": "What did Stanley Milgram's study demonstrate?",
+    "options": [
+      "The power of peer pressure",
+      "Compliance to authority",
+      "The capacity of short term memory",
+      "The stages of grief"
+    ],
+    "answer": 1,
+    "reason": "Milgram's study demonstrated compliance—listening to people with authority (the shocking experiment)."
+  },
+  {
+    "q": "Which theory of emotion states: Stimulus -> Physiological Arousal -> Emotion?",
+    "options": [
+      "James-Lange",
+      "Canon-Bard",
+      "Schachter-Singer",
+      "Zajonc & LeDoux"
+    ],
+    "answer": 0,
+    "reason": "James-Lange theory posits that the stimulus leads to arousal, which then leads to emotion."
+  },
+  {
+    "q": "Which theory of emotion involves labeling the arousal before feeling the emotion?",
+    "options": ["James-Lange", "Canon-Bard", "Schachter-Singer", "Freudian"],
+    "answer": 2,
+    "reason": "Schachter-Singer theory is: Stimulus -> Arousal -> Label arousal -> Feel emotion."
+  },
+  {
+    "q": "Which of the following is considered a universal emotion?",
+    "options": ["Jealousy", "Disgust", "Nostalgia", "Pride"],
+    "answer": 1,
+    "reason": "Disgust is listed as one of the universally recognized emotions (along with Happy, Sad, Surprised, Afraid, Angry)."
+  },
+  {
+    "q": "What is the 'Catharsis myth'?",
+    "options": [
+      "The idea that crying makes you weak",
+      "The idea that 'letting out anger' is healthy, when it actually can form destructive habits",
+      "The idea that therapy does not work",
+      "The idea that emotions are not real"
+    ],
+    "answer": 1,
+    "reason": "The catharsis myth is the false belief that exploding to let out anger is good; it actually creates destructive habits."
+  },
+  {
+    "q": "What hormone is associated with chronic (long-term) stress?",
+    "options": ["Adrenaline", "Cortisol", "Dopamine", "Serotonin"],
+    "answer": 1,
+    "reason": "Chronic stress is associated with Cortisol, while acute stress is associated with Adrenaline."
+  },
+  {
+    "q": "What are the three stages of the General Adaptation Syndrome (GAS)?",
+    "options": [
+      "Shock, Denial, Acceptance",
+      "Reaction, Resistance, Exhaustion",
+      "Input, Process, Output",
+      "Alarm, Alert, Action"
+    ],
+    "answer": 1,
+    "reason": "The GAS stages are Reaction, Resistance, and Exhaustion."
+  },
+  {
+    "q": "What is the difference between a fear and a phobia?",
+    "options": [
+      "Fear is inhibitory; Phobia is not",
+      "Fear is rational and non-inhibitory; Phobia is irrational and inhibitory",
+      "Phobia is always about animals",
+      "Fear is a disorder; Phobia is a normal reaction"
+    ],
+    "answer": 1,
+    "reason": "Fear is rational and non-inhibitory, while a Phobia is irrational and inhibitory."
+  },
+  {
+    "q": "What is the difference between an obsession and a compulsion?",
+    "options": [
+      "Obsession is an action; compulsion is a thought",
+      "Obsession is a disturbing thought; compulsion is a ritualistic action",
+      "Obsession is temporary; compulsion is permanent",
+      "There is no difference"
+    ],
+    "answer": 1,
+    "reason": "Obsession is a disturbing thought, and compulsion is the ritual performed as a result of that thought."
+  },
+  {
+    "q": "Which neurotransmitter is linked to the Monoamine theory of depression (MDD)?",
+    "options": ["Dopamine", "GABA", "Monoamine/Serotonin", "Acetylcholine"],
+    "answer": 2,
+    "reason": "Low monoamine/serotonin is linked to MDD (Major Depressive Disorder)."
+  },
+  {
+    "q": "Which of the following is a 'positive symptom' of schizophrenia?",
+    "options": [
+      "Flat affect",
+      "Social withdrawal",
+      "Hallucinations",
+      "Personal neglect"
+    ],
+    "answer": 2,
+    "reason": "Positive symptoms are things that are added, such as hallucinations or delusions."
+  },
+  {
+    "q": "Cluster A personality disorders are characterized by what type of behavior?",
+    "options": [
+      "Dramatic/Impulsive",
+      "Anxious/Fearful",
+      "Eccentric/Odd",
+      "Depressive"
+    ],
+    "answer": 2,
+    "reason": "Cluster A is characterized by eccentric or odd behavior (e.g., schizophrenia-like traits)."
+  },
+  {
+    "q": "What distinguishes Antisocial Personality Disorder from GAD (social avoidance)?",
+    "options": [
+      "Antisocial people are shy; GAD people are bold",
+      "Antisocial involves disregard for social norms/rights; GAD involves anxiety",
+      "Antisocial people cannot speak; GAD people talk too much",
+      "GAD is dangerous to others; Antisocial is not"
+    ],
+    "answer": 1,
+    "reason": "Antisocial personality disorder is defined by a disregard for social norms and the rights of others, whereas GAD is persistent anxiety."
+  },
+  {
+    "q": "What is the goal of Cognitive Therapy?",
+    "options": [
+      "To uncover unconscious childhood trauma",
+      "To help people understand that their thought processes are irrational and learn new ways of thinking",
+      "To use shock therapy to reset the brain",
+      "To analyze dreams"
+    ],
+    "answer": 1,
+    "reason": "Cognitive therapy focuses on understanding that thought processes are irrational and learning new ways of thinking."
+  },
+  {
+    "q": "What do anti-psychotic drugs generally do to the brain?",
+    "options": [
+      "Block dopamine receptors",
+      "Increase serotonin",
+      "Enhance GABA",
+      "Stimulate the amygdala"
+    ],
+    "answer": 0,
+    "reason": "Anti-psychotic drugs block dopamine receptors."
+  },
+  {
+    "q": "What is 'Systematic Desensitization' often used to treat?",
+    "options": ["Schizophrenia", "Phobias", "Depression", "Bipolar disorder"],
+    "answer": 1,
+    "reason": "While not explicitly in the blob text under 'Therapy', the Learning perspective in Disorders implies treating phobias by minimizing anxiety, and systematic desensitization is the standard application of this. (Self-correction: Based strictly on the text provided, the text mentions 'Learning perspective' reinforces anxiety. Standard knowledge fills this gap, but looking at the text, the closest link is 'Learning perspective' -> treating anxiety)."
+  },
+  {
+    "q": "What is the 'Barnum effect' mentioned in the context of biases?",
+    "options": [
+      "Perceiving order in random events",
+      "A bias the scientific method helps to overcome",
+      "The effect of spacing out studying",
+      "A type of memory loss"
+    ],
+    "answer": 1,
+    "reason": "The Barnum effect is listed as a bias that the scientific method is meant to overcome."
+  },
+  {
+    "q": "What does the 'testing effect' state?",
+    "options": [
+      "Tests cause anxiety",
+      "Testing content leads to much higher recall",
+      "Multiple choice is better than essay",
+      "You should never test yourself"
+    ],
+    "answer": 1,
+    "reason": "The testing effect is the effect that testing has on recall performance; testing content leads to much higher recall."
+  }
+]

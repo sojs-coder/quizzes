@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="./styles.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Quizzes</title>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    </head>
+
+    <body>
+        <!-- Bank Selection Modal -->
+        <div id="bank-selection-modal" class="modal-overlay hidden">
+            <div class="modal">
+                <h2>Select a Quiz</h2>
+                <p class="modal-subtitle">
+                    Choose which course you'd like to study
+                </p>
+                <div id="bank-options" class="bank-options"></div>
+            </div>
+        </div>
+
+        <div class="container" id="app">
+            <div id="start-screen" class="hidden">
+                <h1 id="quiz-title">Quiz</h1>
+                <p>10 random questions per round. Instant feedback.</p>
+                <button class="btn" onclick="startQuiz()">Start Quiz</button>
+                <button class="btn btn-secondary" onclick="changeCourse()">
+                    Change Course
+                </button>
+                <div
+                    class="chart-container hidden"
+                    id="history-chart-container"
+                >
+                    <canvas id="scoreChart"></canvas>
+                </div>
+            </div>
+
+            <div id="quiz-screen" class="hidden">
+                <div class="progress-container">
+                    <div class="progress-bar" id="progress-bar"></div>
+                </div>
+                <h2 id="question-count">Question 1/10</h2>
+                <p
+                    id="question-text"
+                    style="
+                        font-size: 1.1rem;
+                        margin-bottom: 25px;
+                        line-height: 1.5;
+                    "
+                >
+                    Question goes here...
+                </p>
+                <div id="options-container"></div>
+                <div id="feedback-display" class="feedback"></div>
+                <button
+                    id="next-btn"
+                    class="btn hidden"
+                    onclick="nextQuestion()"
+                >
+                    Next Question
+                </button>
+            </div>
+
+            <div id="end-screen" class="hidden">
+                <h1>Quiz Complete!</h1>
+                <p style="font-size: 1.2rem">
+                    You scored <strong id="final-score">0</strong>
+                </p>
+                <p
+                    id="final-percent"
+                    style="
+                        font-size: 2rem;
+                        font-weight: bold;
+                        color: var(--primary);
+                    "
+                >
+                    0%
+                </p>
+                <button class="btn" onclick="returnToStart()">
+                    Take Another Quiz
+                </button>
+            </div>
+        </div>
+
+        <script src="./script.js"></script>
+    </body>
+</html>

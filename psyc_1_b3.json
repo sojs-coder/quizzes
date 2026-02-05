@@ -1,0 +1,517 @@
+[
+  {
+    "q": "What is the primary goal of the scientific method in psychology?",
+    "options": [
+      "To confirm personal biases",
+      "To ensure hypotheses are testable and verifiable",
+      "To study the soul exclusively",
+      "To prove that all behavior is biological"
+    ],
+    "answer": 1,
+    "reason": "The notes state that the scientific method is important to ensure testable and verifiable hypotheses."
+  },
+  {
+    "q": "Which level of analysis in psychology focuses on genetic predisposition and adaptive physiology?",
+    "options": ["Social", "Psychological", "Biological", "Developmental"],
+    "answer": 2,
+    "reason": "The biological level of analysis covers genetic predisposition and adaptive physiology."
+  },
+  {
+    "q": "How does the 'testing effect' influence studying?",
+    "options": [
+      "It causes anxiety that lowers performance",
+      "It suggests cramming is more effective than spacing",
+      "Testing content leads to much higher recall performance",
+      "It has no significant impact on memory"
+    ],
+    "answer": 2,
+    "reason": "The testing effect is defined as the effect that testing has on recall performance, leading to much higher recall."
+  },
+  {
+    "q": "According to the notes, are errors bad for learning?",
+    "options": [
+      "Yes, they reinforce incorrect neural pathways",
+      "No, error-full learning with correction leads to higher performance",
+      "Yes, they lower the student's confidence",
+      "No, but they do not improve performance"
+    ],
+    "answer": 1,
+    "reason": "The notes state explicitly that errors are not bad for learning and that error-full learning + correction leads to higher overall performance."
+  },
+  {
+    "q": "Which school of psychological thought focuses on how the brain is partitioned and structured?",
+    "options": [
+      "Functionalism",
+      "Behaviorism",
+      "Structuralism",
+      "Psychoanalysis"
+    ],
+    "answer": 2,
+    "reason": "Structuralism is described as studying how the brain is partitioned and structured and how that influences processes."
+  },
+  {
+    "q": "What is the key difference between correlational and experimental research?",
+    "options": [
+      "Correlational research uses independent variables; experimental does not",
+      "Experimental research guarantees causation; correlational does not",
+      "Correlational research describes phenomena; experimental ignores them",
+      "Experimental research is always done in a lab; correlational is not"
+    ],
+    "answer": 1,
+    "reason": "Correlational research finds links but doesn't guarantee causation, while experimental research manipulates variables to find cause."
+  },
+  {
+    "q": "What does the 'directionality problem' refer to in research?",
+    "options": [
+      "The difficulty in telling which variable influences the other",
+      "The issue of a third variable influencing both factors",
+      "The bias of the researcher influencing the results",
+      "The participants knowing the direction of the study"
+    ],
+    "answer": 0,
+    "reason": "The directionality problem is defined as being hard to tell which variable influences which."
+  },
+  {
+    "q": "Which part of the nervous system consists of the brain and brainstem?",
+    "options": [
+      "Peripheral Nervous System",
+      "Autonomic Nervous System",
+      "Somatic Nervous System",
+      "Central Nervous System"
+    ],
+    "answer": 3,
+    "reason": "The Central Nervous System is defined as the brainstem + brain."
+  },
+  {
+    "q": "Which system controls voluntary movements like walking and talking?",
+    "options": [
+      "Autonomic System",
+      "Somatic System",
+      "Sympathetic System",
+      "Parasympathetic System"
+    ],
+    "answer": 1,
+    "reason": "The Somatic system controls voluntary movement (walking, talking, waving, etc)."
+  },
+  {
+    "q": "What is the primary function of the Occipital lobe?",
+    "options": ["Hearing", "Deep thought", "Sensory input", "Eyesight"],
+    "answer": 3,
+    "reason": "The Occipital lobe is located in the back and is responsible for eyesight."
+  },
+  {
+    "q": "Which component of the limbic system is responsible for memory formation?",
+    "options": ["Amygdala", "Hypothalamus", "Hippocampus", "Pituitary gland"],
+    "answer": 2,
+    "reason": "The Hippocampus is listed as being responsible for memory formation."
+  },
+  {
+    "q": "What does a 'homunculus' represent in the context of neuroscience?",
+    "options": [
+      "A type of neuron",
+      "A body scaled by the amount of brain space designated to processing it",
+      "A specific neurotransmitter",
+      "The evolutionary bridge in the brain"
+    ],
+    "answer": 1,
+    "reason": "The homunculus is a human model whose body parts are scaled according to the amount of brain space designated to processing information from them."
+  },
+  {
+    "q": "What defines 'positive reinforcement'?",
+    "options": [
+      "Removing an unfavorable consequence to reward behavior",
+      "Adding a favorable consequence to reward behavior",
+      "Adding an unfavorable consequence to punish behavior",
+      "Removing a favorable consequence to punish behavior"
+    ],
+    "answer": 1,
+    "reason": "Positive reinforcement is defined as giving a favorable consequence in response to a wanted behavior."
+  },
+  {
+    "q": "Which reinforcement schedule results in a 'burst of responses' as the reward time nears?",
+    "options": [
+      "Variable Interval",
+      "Fixed Ratio",
+      "Fixed Interval",
+      "Variable Ratio"
+    ],
+    "answer": 2,
+    "reason": "Fixed interval schedules result in a pause after reinforcement followed by a burst of responses as the time for reinforcement nears."
+  },
+  {
+    "q": "What is sensory transduction?",
+    "options": [
+      "The interpretation of a sensation",
+      "Moving a sense from sensory neurons to the brain for processing",
+      "The physical stimulus hitting the body",
+      "The blockage of sensory signals"
+    ],
+    "answer": 1,
+    "reason": "Sensory transduction is defined as moving a sense from sensory neurons to the brain for processing."
+  },
+  {
+    "q": "Which photoreceptors provide color signals?",
+    "options": ["Rods", "Cones", "Cornea", "Lens"],
+    "answer": 1,
+    "reason": "Cones give color signals (Red, Green, or Blue)."
+  },
+  {
+    "q": "Why do we experience color after-effects?",
+    "options": [
+      "Because of brain damage",
+      "Because rods take over for cones",
+      "Due to retinal cone fatigue",
+      "Because light bends in the eye"
+    ],
+    "answer": 2,
+    "reason": "Color after-effects occur because one specific type of cone gets fatigued from overstimulation."
+  },
+  {
+    "q": "What characterizes 'bottom-up' processing?",
+    "options": [
+      "Using context to understand the whole",
+      "Analyzing each part of the whole to figure out what it is",
+      "Ignoring details to see the big picture",
+      "Relying on prior knowledge"
+    ],
+    "answer": 1,
+    "reason": "Bottom-up processing involves analyzing each part of the whole to try and figure out what it is based on its components."
+  },
+  {
+    "q": "What is the capacity of working memory?",
+    "options": ["Unlimited", "Exactly 10 chunks", "5 +/- 2 chunks", "1 chunk"],
+    "answer": 2,
+    "reason": "Working memory usually holds 5 +/- 2 chunks of information."
+  },
+  {
+    "q": "Which part of the brain is responsible for implicit memories?",
+    "options": [
+      "Hippocampus",
+      "Amygdala",
+      "Basal Ganglia",
+      "Prefrontal Cortex"
+    ],
+    "answer": 2,
+    "reason": "The Basal ganglia is responsible for encoding and storing implicit memories."
+  },
+  {
+    "q": "What phrase best describes Long-Term Potentiation (LTP)?",
+    "options": [
+      "Use it or lose it",
+      "Neurons that fire together, wire together",
+      "Mind over matter",
+      "Practice makes perfect"
+    ],
+    "answer": 1,
+    "reason": "LTP is described by the phrase 'Neurons that fire together, wire together'."
+  },
+  {
+    "q": "At which of Piaget's stages does a child learn 'conservation'?",
+    "options": [
+      "Sensorimotor",
+      "Preoperational",
+      "Concrete Operational",
+      "Formal Operational"
+    ],
+    "answer": 1,
+    "reason": "Conservation is listed as a competency developed during the Preoperational stage (though the notes imply they are *not* aware of physical rules initially, this is the stage associated with learning it)."
+  },
+  {
+    "q": "What is the 'Theory of Mind'?",
+    "options": [
+      "The ability to memorize complex theories",
+      "Understanding that others have different perspectives and thoughts",
+      "The theory that the mind is separate from the body",
+      "A method for solving logic puzzles"
+    ],
+    "answer": 1,
+    "reason": "Theory of mind is defined as understanding other's perspectives (e.g., not everyone shares my thoughts/perspectives)."
+  },
+  {
+    "q": "Which level of Kohlberg's morality is based on maintaining social order and upholding laws?",
+    "options": [
+      "Preconventional",
+      "Conventional",
+      "Postconventional",
+      "Unconventional"
+    ],
+    "answer": 1,
+    "reason": "Conventional morality is based on maintaining social order and upholding laws to gain social approval."
+  },
+  {
+    "q": "In Erikson's stages, what conflict occurs during adolescence?",
+    "options": [
+      "Trust vs. Mistrust",
+      "Identity vs. Role Confusion",
+      "Intimacy vs. Isolation",
+      "Integrity vs. Despair"
+    ],
+    "answer": 1,
+    "reason": "Adolescence is characterized by the conflict of Identity vs. role confusion."
+  },
+  {
+    "q": "What are phonemes?",
+    "options": [
+      "The smallest units of meaning",
+      "Single sound units",
+      "Rules of grammar",
+      "Complete sentences"
+    ],
+    "answer": 1,
+    "reason": "Phonemes are defined as a single sound 'unit'."
+  },
+  {
+    "q": "What is the function of Broca's Area?",
+    "options": [
+      "Language reception",
+      "Language creation",
+      "Visual processing",
+      "Auditory processing"
+    ],
+    "answer": 1,
+    "reason": "Broca's Area is responsible for language creation."
+  },
+  {
+    "q": "What is the 'availability heuristic'?",
+    "options": [
+      "Judging probability based on surface plausibility",
+      "Estimating frequency based on how easily examples come to mind",
+      "Assuming the first option is always correct",
+      "Analyzing all available data before deciding"
+    ],
+    "answer": 1,
+    "reason": "The availability heuristic is when people's estimates of frequency are based on what comes easiest to mind."
+  },
+  {
+    "q": "Which of the following is NOT one of the Big Five personality traits?",
+    "options": [
+      "Neuroticism",
+      "Introversion",
+      "Conscientiousness",
+      "Agreeableness"
+    ],
+    "answer": 1,
+    "reason": "The Big Five traits are Neuroticism, Openness, Conscientiousness, Extraversion, and Agreeableness. Introversion is the low end of Extraversion, not the trait name itself."
+  },
+  {
+    "q": "What does an 'internal locus of control' imply?",
+    "options": [
+      "Events are caused by external influences",
+      "We have no control over our lives",
+      "We have control over our own lives",
+      "Luck determines outcomes"
+    ],
+    "answer": 2,
+    "reason": "Internal locus of control is the belief that things that happen are due to internal factors, meaning we have control."
+  },
+  {
+    "q": "What is the Fundamental Attribution Error?",
+    "options": [
+      "Attributing behavior to the situation rather than disposition",
+      "Attributing behavior to disposition rather than the situation",
+      "Assuming everyone tells the truth",
+      "Forgetting where you learned information"
+    ],
+    "answer": 1,
+    "reason": "The fundamental attribution error is attributing attitudes of a person based on their disposition rather than their situation."
+  },
+  {
+    "q": "How is cognitive dissonance resolved?",
+    "options": [
+      "By ignoring the conflict",
+      "By changing attitudes or actions to align beliefs",
+      "By seeking more conflicting information",
+      "By strictly following orders"
+    ],
+    "answer": 1,
+    "reason": "We change our attitudes/actions to resolve cognitive dissonance."
+  },
+  {
+    "q": "What is the difference between conformity and automatic mimicry?",
+    "options": [
+      "Conformity is explicit; mimicry is automatic",
+      "Conformity is subconscious; mimicry is conscious",
+      "Conformity happens alone; mimicry happens in groups",
+      "There is no difference"
+    ],
+    "answer": 0,
+    "reason": "Conformity is explicitly copying members of a group, while automatic mimicry is the automatic copying of people close to you."
+  },
+  {
+    "q": "What did Stanley Milgram's study demonstrate?",
+    "options": [
+      "The power of peer pressure",
+      "Compliance to authority",
+      "The duration of memory",
+      "The stages of grief"
+    ],
+    "answer": 1,
+    "reason": "Milgram's study demonstrated compliance—listening to people with authority."
+  },
+  {
+    "q": "According to the James-Lange theory, what is the order of emotion?",
+    "options": [
+      "Stimulus -> Emotion -> Arousal",
+      "Stimulus -> Arousal -> Emotion",
+      "Stimulus -> Arousal + Emotion (concurrently)",
+      "Stimulus -> Label -> Emotion"
+    ],
+    "answer": 1,
+    "reason": "James-Lange theory states: Stimulus -> physiological arousal -> emotion."
+  },
+  {
+    "q": "Which theory suggests we feel emotion and arousal at the same time?",
+    "options": [
+      "James-Lange",
+      "Canon-Bard",
+      "Schachter-Singer",
+      "Zajonc & LeDoux"
+    ],
+    "answer": 1,
+    "reason": "Canon-Bard theory states: Stimulus -> physiological arousal & emotion (concurrently)."
+  },
+  {
+    "q": "What hormone is associated with chronic stress?",
+    "options": ["Adrenaline", "Cortisol", "Dopamine", "Serotonin"],
+    "answer": 1,
+    "reason": "Chronic, long-lasting stress is associated with cortisol."
+  },
+  {
+    "q": "What are the three stages of the General Adaptation Syndrome (GAS)?",
+    "options": [
+      "Alarm, Resistance, Exhaustion",
+      "Reaction, Action, Recovery",
+      "Stress, Coping, Healing",
+      "Panic, Anxiety, Depression"
+    ],
+    "answer": 0,
+    "reason": "The notes list the pattern as Reaction (often called Alarm), Resistance, and Exhaustion."
+  },
+  {
+    "q": "What distinguishes a phobia from a normal fear?",
+    "options": [
+      "Phobias are rational",
+      "Phobias are inhibitory and irrational",
+      "Fears are always stronger than phobias",
+      "Fears only involve animals"
+    ],
+    "answer": 1,
+    "reason": "A phobia is described as irrational and inhibitory (e.g., cannot leave house), whereas fear is rational and non-inhibitory."
+  },
+  {
+    "q": "What is an obsession in the context of OCD?",
+    "options": [
+      "A repeated ritual",
+      "A disturbing thought",
+      "A physical tic",
+      "A fear of heights"
+    ],
+    "answer": 1,
+    "reason": "An obsession is defined as a disturbing thought."
+  },
+  {
+    "q": "Which neurotransmitter is low in individuals with MDD (Major Depressive Disorder)?",
+    "options": ["Dopamine", "Monoamine", "GABA", "Acetylcholine"],
+    "answer": 1,
+    "reason": "The notes mention the 'monoamine theory of depression' where low monoamine is linked to MDD."
+  },
+  {
+    "q": "What is a 'positive' symptom of schizophrenia?",
+    "options": [
+      "Social withdrawal",
+      "Flat affect",
+      "Hallucinations",
+      "Personal neglect"
+    ],
+    "answer": 2,
+    "reason": "Positive symptoms are things that they DO, such as hallucinations or delusions."
+  },
+  {
+    "q": "What defines Antisocial Personality Disorder?",
+    "options": [
+      "Extreme shyness and social anxiety",
+      "Disregard for social norms and the rights of others",
+      "Multiple distinct personalities",
+      "Fear of leaving the house"
+    ],
+    "answer": 1,
+    "reason": "Antisocial personality disorder is defined as a disregard of social norms and the rights of others."
+  },
+  {
+    "q": "What do SSRIs treat?",
+    "options": [
+      "Schizophrenia",
+      "Bipolar Disorder",
+      "Depression",
+      "Anxiety exclusively"
+    ],
+    "answer": 2,
+    "reason": "SSRIs (Selective Serotonin Reuptake Inhibitors) are listed under Anti-depression drugs."
+  },
+  {
+    "q": "Which therapy focuses on exploring unconscious feelings and childhood experiences?",
+    "options": [
+      "Cognitive Therapy",
+      "Behavioral Therapy",
+      "Psychodynamics",
+      "Humanistic Therapy"
+    ],
+    "answer": 2,
+    "reason": "Psychodynamics is described as exploring unconscious feelings and childhood experiences to discover the cause of a problem."
+  },
+  {
+    "q": "What is the 'labeling effect' in the context of psychological disorders?",
+    "options": [
+      "The cure resulting from a correct diagnosis",
+      "Stigma that can worsen symptoms",
+      "The process of categorizing disorders",
+      "The legal requirement for diagnosis"
+    ],
+    "answer": 1,
+    "reason": "The labeling effect is described as labeling the problem coming with stigma that can worsen the symptoms."
+  },
+  {
+    "q": "What distinguishes Panic Disorder from GAD?",
+    "options": [
+      "Panic disorder is constant; GAD is random",
+      "Panic disorder involves once-off random attacks; GAD is constant anxiety",
+      "Panic disorder is less severe",
+      "GAD involves hallucinations"
+    ],
+    "answer": 1,
+    "reason": "Panic disorder is a 'once-off random panic attack' while GAD is 'constant anxiety'."
+  },
+  {
+    "q": "What is the main idea behind Cognitive Therapy?",
+    "options": [
+      "Unconscious drives cause behavior",
+      "Irrational thought processes need to be replaced with new ways of thinking",
+      "Behavior is learned through conditioning",
+      "Self-actualization is the ultimate goal"
+    ],
+    "answer": 1,
+    "reason": "Cognitive therapy is described as the belief that thought processes are irrational, so people should learn new ways of thinking."
+  },
+  {
+    "q": "What does 'linkage analysis' study?",
+    "options": [
+      "The link between stress and illness",
+      "Families where a mood disorder occurs across generations",
+      "The connection between neurons",
+      "The relationship between therapist and patient"
+    ],
+    "answer": 1,
+    "reason": "Linkage analysis involves studying families where a mood disorder has occurred across generations and comparing DNA."
+  },
+  {
+    "q": "What characterizes Cluster B personality disorders?",
+    "options": [
+      "Eccentric and odd behavior",
+      "Anxious and fearful behavior",
+      "Dramatic, impulsive, and mood-related behavior",
+      "Withdrawn and shy behavior"
+    ],
+    "answer": 2,
+    "reason": "Cluster B is characterized by dramatic, impulsive behavior and mood issues."
+  }
+]
